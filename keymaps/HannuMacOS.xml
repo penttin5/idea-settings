@@ -12,6 +12,7 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="ActivateVersionControlToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
@@ -85,6 +86,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
@@ -110,9 +115,9 @@
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl f10" />
-    <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
   <action id="context.save" />
   <action id="hg4idea.QPushAction" />
   <action id="learn.next.lesson" />
+  <action id="tasks.switch" />
 </keymap>
