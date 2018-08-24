@@ -21,7 +21,10 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="shift meta c" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
