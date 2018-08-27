@@ -130,5 +130,8 @@
   <action id="context.save" />
   <action id="hg4idea.QPushAction" />
   <action id="learn.next.lesson" />
+  <action id="org.moreunit.actions.jump">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="tasks.switch" />
 </keymap>
