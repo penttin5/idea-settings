@@ -23,6 +23,10 @@
     <keyboard-shortcut first-keystroke="shift meta c" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+  </action>
+  <action id="Console.TableResult.CloneColumn" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
   <action id="Editor Copy">
@@ -122,6 +126,7 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
+  <action id="UML.ShowChanges" />
   <action id="context.save" />
   <action id="hg4idea.QPushAction" />
   <action id="learn.next.lesson" />
