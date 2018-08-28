@@ -38,6 +38,9 @@
   <action id="Console.TableResult.CloneColumn" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="Debugger.ResumeThread">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
