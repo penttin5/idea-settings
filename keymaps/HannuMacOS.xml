@@ -95,6 +95,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
   </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="ImplementMethods" />
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowWidth" />
@@ -156,8 +159,5 @@
   <action id="context.save" />
   <action id="hg4idea.QPushAction" />
   <action id="learn.next.lesson" />
-  <action id="org.moreunit.actions.jump">
-    <keyboard-shortcut first-keystroke="meta j" />
-  </action>
   <action id="tasks.switch" />
 </keymap>
