@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>92</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -135,6 +135,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CareTeamServiceIT.searchServiceRequestListsByPractitioner'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PalveluohjainAppointmentProviderIT'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PalveluohjainAppointmentProviderIT'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PeriodicExaminationRepositoryIT'">
@@ -206,7 +214,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CareTeamServiceIT'">
@@ -222,7 +230,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PalveluohjainAppointmentProviderIT'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PeriodicExaminationRepositoryIT'">
@@ -326,7 +334,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>40</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -350,7 +358,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>64</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
     </option>
