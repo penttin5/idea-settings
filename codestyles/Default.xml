@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
