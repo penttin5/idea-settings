@@ -41,6 +41,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CarePlanProviderIT'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'CarePlanProviderIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CareTeamServiceIT'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -89,6 +97,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'practitionerCanSen...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'practitionerCanSen...()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'practitionerHasCor...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -110,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>228</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -222,7 +238,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanProviderIT.practitionerCanSendAndAssignWellBeingCheck'</Description>
-          <Count>5</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CareTeamServiceIT'">
@@ -350,7 +366,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanProviderIT'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CareTeamServiceIT'">
@@ -406,7 +422,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'a()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'createPeriodicExam...()'">
@@ -438,7 +454,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'practitionerCanSen...()'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'practitionerHasCor...()'">
@@ -471,6 +487,22 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CarePlanProviderIT'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CarePlanProviderIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CarePlanProviderIT.practitionerCanSendAndAssignWellBeingCheck'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CarePlanProviderIT.practitionerCanSendAndAssignWellBeingCheck'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PlanDefinitionProviderIT.getPeriodicExaminationListing'">
@@ -518,7 +550,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>54</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
