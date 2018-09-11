@@ -433,6 +433,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'createCarePlanFrom...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'createCarePlanFrom...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'createPeriodicExam...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
