@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>100</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CarePlanProviderIT'">
@@ -70,6 +70,14 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'CareTeamServiceIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'FeedbackReportIT'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'FeedbackReportIT'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -110,7 +118,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'feedbackReport()'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'findActiveByOrgani...()'">
@@ -361,12 +369,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FeedbackReportIT'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FeedbackReportIT'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'FeedbackReportIT.feedbackReport'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FeedbackReportIT.feedbackReport'</Description>
-          <Count>5</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PalveluohjainAppointmentProviderIT'">
@@ -454,7 +470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SourcesIT.returnsCorrectSources'">
@@ -721,12 +737,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'FeedbackReportIT'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FeedbackReportIT'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FeedbackReportIT.feedbackReport'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FeedbackReportIT.feedbackReport'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PlanDefinitionProviderIT.createCarePlanFromPeriodicExamination'">
@@ -751,6 +775,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'PlanDefinitionProviderIT.getPeriodicExaminationWithActivityDefinition'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Rerun Failed Tests'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'fi.oda.fhirservice in oda-fhir-service_test'">
@@ -798,7 +830,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>106</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -814,7 +846,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>214</Count>
+          <Count>215</Count>
         </Item>
       </Statistic>
     </option>
