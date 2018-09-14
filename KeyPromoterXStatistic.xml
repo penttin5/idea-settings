@@ -6,7 +6,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>16</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>101</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>21</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CarePlanProviderIT'">
@@ -137,6 +137,30 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'patient1ConsentQue...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'patient1ConsentQue...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'patientCanFindOwnP...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'patientCanFindOwnP...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'practitionerCanSea...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'practitionerCanSea...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'practitionerCanSen...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -161,11 +185,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'searchReferralRequ...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'searchReferralRequ...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'searchServiceReque...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'searchServiceReque...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'sendUnconfirmedCar...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'sendUnconfirmedCar...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -182,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>390</Count>
+          <Count>505</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -238,7 +278,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>19</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -246,7 +286,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -286,7 +326,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-analytics-service_integrationTest (3)'">
@@ -329,12 +369,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'All in oda-fhir-service_test (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'All in oda-fhir-service_test (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'All in oda-fhir-service_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-fhir-service_test'</Description>
-          <Count>1</Count>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanCompleteServiceIT.patientCanRejectFinishedCarePlan'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanCompleteServiceIT.patientCanRejectFinishedCarePlan'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanProviderIT'">
@@ -351,6 +407,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanProviderIT.practitionerCanSendAndAssignWellBeingCheck'</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanServiceTest.sendUnconfirmedCarePlanCreatesAndSetsUnconfirmedPatientAsQuestionnaireResponseAndCarePlanSubject'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanServiceTest.sendUnconfirmedCarePlanCreatesAndSetsUnconfirmedPatientAsQuestionnaireResponseAndCarePlanSubject'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CareTeamResolverTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CareTeamResolverTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CareTeamServiceIT'">
@@ -390,7 +462,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PalveluohjainAppointmentProviderIT'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ParameterUtilTest.parameterFromLocalDate'">
@@ -423,6 +495,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PeriodicExaminationRepositoryIT.getPeriodicExaminationTemplatesReturnsCorrectTemplates'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PersonProviderIT.practitionerCanSearchPersonsByPractitioner'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PersonProviderIT.practitionerCanSearchPersonsByPractitioner'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PersonServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PersonServiceTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PlanDefinitionProviderIT'">
@@ -465,12 +553,28 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'QuestionnaireResponseProviderMockedCdsIT.analyzeFilledSocialStatusQuestionnaire'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'QuestionnaireResponseProviderMockedCdsIT.analyzeFilledSocialStatusQuestionnaire'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ReferralRequestProviderIT.searchReferralRequestsByCarePlan'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ReferralRequestProviderIT.searchReferralRequestsByCarePlan'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Rerun Failed Tests'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SourcesIT.returnsCorrectSources'">
@@ -486,7 +590,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'fi.oda.fhirservice in oda-fhir-service_test'</Description>
-          <Count>11</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'oda-fhir-service-common [install]'">
@@ -534,7 +638,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>68</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -542,7 +646,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>8</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanProviderIT'">
@@ -551,6 +655,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanProviderIT'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CareTeamResolverTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CareTeamResolverTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CareTeamServiceIT'">
@@ -566,7 +678,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PalveluohjainAppointmentProviderIT'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PeriodicExaminationRepositoryIT'">
@@ -575,6 +687,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PeriodicExaminationRepositoryIT'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PersonServiceTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PersonServiceTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PlanDefinitionProviderIT'">
@@ -606,7 +726,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'fi.oda.fhirservice''</Description>
-          <Count>37</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'a()'">
@@ -614,7 +734,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'a()'</Description>
-          <Count>6</Count>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'analyzeFilledSocia...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'analyzeFilledSocia...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'anonymousHasCorrec...()'">
@@ -665,6 +793,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'patientCanRejectFi...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'patientCanRejectFi...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'practitionerCanSea...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'practitionerCanSea...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'practitionerCanSen...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -697,12 +841,28 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'sendUnconfirmedCar...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'sendUnconfirmedCar...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'toLocalDate()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'toLocalDate()'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'⇧F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -721,6 +881,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'All in oda-fhir-service_test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'All in oda-fhir-service_test'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CarePlanProviderIT'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -737,6 +905,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ConsentProviderIT.patient1ConsentQuestionnaireResponseIsPopulatedWithMandatoryConsents'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ConsentProviderIT.patient1ConsentQuestionnaireResponseIsPopulatedWithMandatoryConsents'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FeedbackReportIT'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -751,6 +927,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FeedbackReportIT.feedbackReport'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PersonProviderIT.practitionerCanSearchPersonsByPractitioner'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PersonProviderIT.practitionerCanSearchPersonsByPractitioner'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PlanDefinitionProviderIT.createCarePlanFromPeriodicExamination'">
@@ -782,7 +966,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Rerun Failed Tests'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'fi.oda.fhirservice in oda-fhir-service_test'">
@@ -790,7 +974,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'fi.oda.fhirservice in oda-fhir-service_test'</Description>
-          <Count>5</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'fi.oda.fhirservice.cdsclient in oda-fhir-service_test'">
@@ -798,6 +982,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'fi.oda.fhirservice.cdsclient in oda-fhir-service_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'oda-fhir-service-common [jarTests]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'oda-fhir-service-common [jarTests]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -822,7 +1014,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>115</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -830,7 +1022,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>108</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -838,7 +1030,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>9</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -846,7 +1038,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>215</Count>
+          <Count>281</Count>
         </Item>
       </Statistic>
     </option>
