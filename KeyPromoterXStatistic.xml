@@ -6,7 +6,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>153</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>164</Count>
+          <Count>165</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>349</Count>
+          <Count>350</Count>
         </Item>
       </Statistic>
     </option>
