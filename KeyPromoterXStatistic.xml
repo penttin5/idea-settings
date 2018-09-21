@@ -246,7 +246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>659</Count>
+          <Count>677</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -302,7 +302,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>48</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -577,6 +577,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PlanDefinitionProviderIT.createCarePlanFromPeriodicExaminationAnonymous'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PlanDefinitionProviderIT.createCarePlanFromPeriodicExaminationAnonymous'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PlanDefinitionProviderIT.createPeriodicExaminationFromTemplateReturnsCorrectResult'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -686,7 +694,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>165</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -830,7 +838,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'createCarePlanFrom...()'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'createPeriodicExam...()'">
