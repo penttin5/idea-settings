@@ -6,7 +6,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>55</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>172</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>748</Count>
+          <Count>750</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -761,6 +761,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AnonymousAccessResolverTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'AnonymousAccessResolverTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'AppointmentBookingServiceTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1230,7 +1238,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>205</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1262,7 +1270,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>425</Count>
+          <Count>427</Count>
         </Item>
       </Statistic>
     </option>
