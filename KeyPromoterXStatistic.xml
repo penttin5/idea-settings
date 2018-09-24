@@ -6,7 +6,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>57</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>174</Count>
+          <Count>176</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>750</Count>
+          <Count>751</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -750,7 +750,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>190</Count>
+          <Count>191</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -758,7 +758,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -766,7 +766,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AnonymousAccessResolverTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AppointmentBookingServiceTest'">
@@ -886,7 +886,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'fi.oda.fhirservice''</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'a()'">
@@ -1238,7 +1238,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>206</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>427</Count>
+          <Count>430</Count>
         </Item>
       </Statistic>
     </option>
