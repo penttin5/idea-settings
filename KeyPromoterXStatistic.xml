@@ -374,7 +374,7 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Open Module Settings</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -921,6 +921,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'PegasosAppointmentProviderIT'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PegasosAppointmentProviderIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PeriodicExaminationRepositoryIT'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1350,7 +1358,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>237</Count>
+          <Count>239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
