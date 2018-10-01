@@ -830,7 +830,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>229</Count>
+          <Count>231</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -918,7 +918,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CdsServiceApplicatio...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JDependTest'">
@@ -1169,6 +1169,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'update-to-phr'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'update-to-phr'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Step Out">
         <Item>
           <IdeaActionID>StepOut</IdeaActionID>
@@ -1390,7 +1398,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>250</Count>
+          <Count>252</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
