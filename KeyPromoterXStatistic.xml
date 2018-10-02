@@ -678,7 +678,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PegasosAppointmentProviderIT'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PegasosAppointmentProviderIT.wholeBookingProcessSucceeds'">
@@ -1006,7 +1006,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PegasosAppointmentProviderIT'</Description>
-          <Count>17</Count>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PegasosAppointmentProviderIT.wholeBookingProcessSucceeds'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PegasosAppointmentProviderIT.wholeBookingProcessSucceeds'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PeriodicExaminationRepositoryIT'">
