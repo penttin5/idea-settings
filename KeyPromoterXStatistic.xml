@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>882</Count>
+          <Count>894</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>75</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -929,6 +929,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AppointmentProviderIT'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'AppointmentProviderIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CarePlanProviderIT'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1063,6 +1071,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'fi.oda.fhirservice''</Description>
           <Count>111</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WinHitAppointmentProviderIT'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'WinHitAppointmentProviderIT'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'a()'">
