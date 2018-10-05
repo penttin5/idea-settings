@@ -134,7 +134,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'confirmAppointment...()'</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'confirmExpiredPreB...()'">
@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1036</Count>
+          <Count>1037</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -574,7 +574,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AppointmentProviderMockedEsbIT'</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AppointmentProviderMockedEsbIT.confirmAppointmentSucceeds'">
@@ -583,6 +583,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AppointmentProviderMockedEsbIT.confirmAppointmentSucceeds'</Description>
           <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AppointmentProviderMockedEsbIT.confirmAppointmentWithSiblingSucceeds'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AppointmentProviderMockedEsbIT.confirmAppointmentWithSiblingSucceeds'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AppointmentProviderMockedEsbIT.confirmPreBookedAppointmentsSucceeds'">
@@ -1006,7 +1014,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AppointmentProviderMockedEsbIT'</Description>
-          <Count>17</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AppointmentServiceTest'">
@@ -1230,7 +1238,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'confirmAppointment...()'</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'confirmExpiredPreB...()'">
@@ -1646,7 +1654,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>320</Count>
+          <Count>321</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1654,7 +1662,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>251</Count>
+          <Count>252</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
