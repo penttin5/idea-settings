@@ -358,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1072</Count>
+          <Count>1074</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -750,7 +750,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PalveluohjainAppointmentProviderIT'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ParameterUtilTest.parameterFromLocalDate'">
@@ -1150,7 +1150,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PalveluohjainAppointmentProviderIT'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PegasosAppointmentProviderIT'">
@@ -1166,7 +1166,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'PegasosAppointmentProviderIT.wholeBookingProcessSucceeds'</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PeriodicExaminationRepositoryIT'">
@@ -1710,7 +1710,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>632</Count>
+          <Count>633</Count>
         </Item>
       </Statistic>
     </option>
