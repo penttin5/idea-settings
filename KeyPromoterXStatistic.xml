@@ -329,6 +329,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'sendToServiceReque...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'sendToServiceReque...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'sendUnconfirmedCar...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -366,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1123</Count>
+          <Count>1131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -679,6 +687,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanProviderIT.practitionerCanSendAndAssignWellBeingCheck'</Description>
           <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanProviderIT.sendToServiceRequestList'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanProviderIT.sendToServiceRequestList'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanServiceAssignTest.assignCreatesReferralRequest'">
@@ -1417,6 +1433,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'sendToServiceReque...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'sendToServiceReque...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'sendUnconfirmedCar...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1527,6 +1551,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CarePlanProviderIT.practitionerCanSendAndAssignWellBeingCheck'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CarePlanProviderIT.sendToServiceRequestList'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CarePlanProviderIT.sendToServiceRequestList'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CarePlanServiceAssignTest.patientCantSendAndAssignOtherCarePlan'">
@@ -1718,7 +1750,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>290</Count>
+          <Count>292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
