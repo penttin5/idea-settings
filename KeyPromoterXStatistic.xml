@@ -30,7 +30,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>65</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AppointmentProviderMockedEsbIT'">
@@ -262,7 +262,15 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'patientCanActivate...()'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'patientCanAddQuest...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'patientCanAddQuest...()'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'patientCanFindOwnP...()'">
@@ -271,6 +279,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'patientCanFindOwnP...()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'patientCanSendCare...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'patientCanSendCare...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'patientCantSendAnd...()'">
@@ -369,12 +385,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'xssIsFilteredOnSend()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'xssIsFilteredOnSend()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1187</Count>
+          <Count>1219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -647,6 +671,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanCompleteServiceIT.patientCanRejectFinishedCarePlan'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanCompleteServiceIT.patientCanSendCarePlan'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanCompleteServiceIT.patientCanSendCarePlan'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanCompleteServiceIT.xssIsFilteredOnSend'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanCompleteServiceIT.xssIsFilteredOnSend'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanProviderIT'">
@@ -966,7 +1006,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'fi.oda.fhirservice in oda-fhir-service_test'</Description>
-          <Count>28</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'oda-fhir-service-common [install]'">
@@ -1014,7 +1054,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>324</Count>
+          <Count>335</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -1246,7 +1286,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'fi.oda.fhirservice''</Description>
-          <Count>138</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WinHitAppointmentProviderIT'">
@@ -1390,6 +1430,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'patientCanRejectFi...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'patientCanSendCare...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'patientCanSendCare...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1694,7 +1742,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'fi.oda.fhirservice in oda-fhir-service_test'</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'fi.oda.fhirservice.cdsclient in oda-fhir-service_test'">
@@ -1742,7 +1790,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>402</Count>
+          <Count>408</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1750,7 +1798,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>292</Count>
+          <Count>302</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -1774,7 +1822,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>728</Count>
+          <Count>731</Count>
         </Item>
       </Statistic>
     </option>
