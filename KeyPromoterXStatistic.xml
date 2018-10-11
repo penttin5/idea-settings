@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>292</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1229</Count>
+          <Count>1233</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -737,6 +737,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CarePlanProviderServiceGuidanceIT'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanProviderServiceGuidanceIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CarePlanProviderServiceGuidanceIT.patientCanSendCarePlanToCorrectServiceRequestList'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1062,7 +1070,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>338</Count>
+          <Count>339</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -1129,12 +1137,28 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CarePlanCompleteServiceIT'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CarePlanCompleteServiceIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CarePlanProviderIT'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanProviderIT'</Description>
-          <Count>18</Count>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CarePlanProviderServiceGuidanceIT'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CarePlanProviderServiceGuidanceIT'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanServiceAssignTest'">
@@ -1294,7 +1318,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'fi.oda.fhirservice''</Description>
-          <Count>148</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WinHitAppointmentProviderIT'">
@@ -1798,7 +1822,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>412</Count>
+          <Count>420</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1830,7 +1854,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>741</Count>
+          <Count>751</Count>
         </Item>
       </Statistic>
     </option>
