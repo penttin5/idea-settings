@@ -454,7 +454,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -1806,7 +1806,7 @@
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'⇧⌘B' or '⌃⇧B' or '⇧⌘Button1 Click' or '⇧Button2 Click'</ShortCut>
           <Description>Type Declaration</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
