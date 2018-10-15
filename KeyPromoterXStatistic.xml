@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1272</Count>
+          <Count>1276</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -870,7 +870,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PalveluohjainAppointmentProviderIT'</Description>
-          <Count>11</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ParameterUtilTest.parameterFromLocalDate'">
@@ -1153,6 +1153,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AppointmentProviderITBase'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'AppointmentProviderITBase'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'AppointmentProviderMockedEsbIT'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1302,7 +1310,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PalveluohjainAppointmentProviderIT'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PegasosAppointmentProviderIT'">
@@ -1607,6 +1615,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'update-to-phr'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'wholeBookingProces...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'wholeBookingProces...()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
