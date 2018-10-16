@@ -430,7 +430,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'wholeBookingProces...()'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'withSupportingInfo...()'">
@@ -454,7 +454,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1318</Count>
+          <Count>1321</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1121,6 +1121,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ResultDtoTest.a'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ResultDtoTest.a'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SourcesIT.returnsCorrectSources'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1430,7 +1438,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'PegasosAppointmentProviderIT.wholeBookingProcessSucceeds'</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PegasosUriBuilderTest'">
@@ -1463,6 +1471,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PlanDefinitionProviderIT'</Description>
           <Count>28</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ResultDtoTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ResultDtoTest'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ServiceRequestListRepositoryIT'">
@@ -1518,7 +1534,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'a()'</Description>
-          <Count>72</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'analyzeFilledSocia...()'">
@@ -1543,6 +1559,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'assignCreatesRefer...()'</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'b()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'b()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'confirmAppointment...()'">
@@ -1590,6 +1614,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'encodesQueryParams()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'error()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'error()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2070,7 +2102,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>459</Count>
+          <Count>461</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2078,7 +2110,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>312</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -2102,7 +2134,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>785</Count>
+          <Count>787</Count>
         </Item>
       </Statistic>
     </option>
