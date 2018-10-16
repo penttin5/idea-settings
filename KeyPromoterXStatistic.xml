@@ -321,12 +321,28 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'patientCanReadCare...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'patientCanReadCare...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'patientCanSendCare...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'patientCanSendCare...()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'patientCanUpdateOw...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'patientCanUpdateOw...()'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'patientCantSendAnd...()'">
@@ -454,7 +470,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1333</Count>
+          <Count>1334</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -799,6 +815,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanProviderIT.patientCanActivateOwnCarePlan'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanProviderIT.patientCanUpdateOwnCarePlan'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanProviderIT.patientCanUpdateOwnCarePlan'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanProviderIT.practitionerCanSendAndAssignWellBeingCheck'">
@@ -1689,6 +1713,14 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'patientCanReadCare...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'patientCanReadCare...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'patientCanRejectFi...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1703,6 +1735,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'patientCanSendCare...()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'patientCanUpdateOw...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'patientCanUpdateOw...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'practitionerCanSea...()'">
@@ -2118,7 +2158,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>314</Count>
+          <Count>320</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
