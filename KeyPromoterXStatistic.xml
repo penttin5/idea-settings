@@ -350,7 +350,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'patientCanUpdateOw...()'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'patientCanUpdateRe...()'">
@@ -502,7 +502,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1347</Count>
+          <Count>1348</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2254,7 +2254,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>327</Count>
+          <Count>330</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
