@@ -238,7 +238,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'createDoesNotAllow...()'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'createPeriodicExam...()'">
@@ -247,6 +247,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'createPeriodicExam...()'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'customOperationDoe...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'customOperationDoe...()'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'feedbackReport()'">
@@ -558,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1366</Count>
+          <Count>1367</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1294,7 +1302,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SignatureInterceptorIT'</Description>
-          <Count>4</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SignatureInterceptorIT.a'">
@@ -1311,6 +1319,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SignatureInterceptorIT.createDoesNotAllowMissingSignatureOnIncomingDomainResource'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SignatureInterceptorIT.customOperationDoesNotAllowMissingSignatureInDomainResourceParameter'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SignatureInterceptorIT.customOperationDoesNotAllowMissingSignatureInDomainResourceParameter'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SignatureInterceptorIT.searchListAddsSignatureToReturnedListOfDomainResources'">
@@ -1702,7 +1718,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'SignatureInterceptorIT'</Description>
-          <Count>4</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'fi.oda.common.fhir''">
@@ -1839,6 +1855,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'createPeriodicExam...()'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'customOperationDoe...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'customOperationDoe...()'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'encodesQueryParams()'">
@@ -2334,7 +2358,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Rerun Failed Tests'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SignatureInterceptorIT.a'">
@@ -2406,7 +2430,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>352</Count>
+          <Count>356</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
