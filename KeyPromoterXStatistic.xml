@@ -1254,7 +1254,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SignatureInterceptorIT.a'</Description>
-          <Count>5</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SignaturePocTest.a'">
@@ -1342,7 +1342,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>370</Count>
+          <Count>371</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -1566,7 +1566,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PegasosAppointmentProviderIT'</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PegasosAppointmentProviderIT.wholeBookingProcessSucceeds'">
@@ -1574,7 +1574,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'PegasosAppointmentProviderIT.wholeBookingProcessSucceeds'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PegasosUriBuilderTest'">
@@ -1670,7 +1670,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'a()'</Description>
-          <Count>80</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'analyzeFilledSocia...()'">
@@ -2249,6 +2249,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SignatureInterceptorIT.a'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SignatureInterceptorIT.a'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'fi.oda.fhirservice in oda-fhir-service_test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2302,7 +2310,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>467</Count>
+          <Count>470</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2334,7 +2342,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>801</Count>
+          <Count>803</Count>
         </Item>
       </Statistic>
     </option>
