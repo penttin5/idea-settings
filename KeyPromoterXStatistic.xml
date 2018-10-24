@@ -1753,6 +1753,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'EfficaAppointmentBookingClientTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'EfficaAppointmentBookingClientTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'HtmlSanitizerTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
