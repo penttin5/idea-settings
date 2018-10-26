@@ -18,5 +18,6 @@
     <mask>*.java</mask>
     <mask>*IT.java</mask>
     <mask>*Provider.java</mask>
+    <mask>*ProviderIT.java</mask>
   </component>
 </application>
