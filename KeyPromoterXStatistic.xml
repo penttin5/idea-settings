@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>362</Count>
+          <Count>363</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -654,7 +654,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1563</Count>
+          <Count>1564</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1574,7 +1574,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'fi.oda.fhirservice in oda-fhir-service_test'</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'oda-fhir-service-common [install]'">
@@ -1622,7 +1622,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>424</Count>
+          <Count>427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -1958,7 +1958,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'fi.oda.fhirservice''</Description>
-          <Count>178</Count>
+          <Count>179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'URIBuilderTest'">
@@ -2670,7 +2670,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'fi.oda.fhirservice in oda-fhir-service_test'</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'fi.oda.fhirservice.cdsclient in oda-fhir-service_test'">
@@ -2718,7 +2718,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>518</Count>
+          <Count>520</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2750,7 +2750,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>900</Count>
+          <Count>904</Count>
         </Item>
       </Statistic>
     </option>
