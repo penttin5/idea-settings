@@ -1622,7 +1622,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>434</Count>
+          <Count>440</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
