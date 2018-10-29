@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>367</Count>
+          <Count>370</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -662,7 +662,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1619</Count>
+          <Count>1624</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -982,7 +982,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanCompleteServiceIT.patientCanRejectFinishedCarePlan'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanCompleteServiceIT.patientCanSendCarePlan'">
@@ -1582,7 +1582,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'fi.oda.fhirservice in oda-fhir-service_test'</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'oda-fhir-service-common [install]'">
@@ -1710,7 +1710,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanCompleteServiceIT'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanProviderIT'">
@@ -1966,7 +1966,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'fi.oda.fhirservice''</Description>
-          <Count>187</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'URIBuilderTest'">
@@ -2230,7 +2230,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'patientCanRejectFi...()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'patientCanSendCare...()'">
@@ -2734,7 +2734,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>545</Count>
+          <Count>547</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2766,7 +2766,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>940</Count>
+          <Count>945</Count>
         </Item>
       </Statistic>
     </option>
