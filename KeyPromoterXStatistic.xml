@@ -830,7 +830,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>92</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ATest.a (1)'">
@@ -1590,7 +1590,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -2734,7 +2734,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>466</Count>
+          <Count>468</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
