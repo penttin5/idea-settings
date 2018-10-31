@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>379</Count>
+          <Count>381</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -1073,6 +1073,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CarePlanProviderIT.practitionerCanAddCoachingActivityWithStartDate'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanProviderIT.practitionerCanAddCoachingActivityWithStartDate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CarePlanProviderIT.practitionerCanAssignCarePlanToOtherPractitioner'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1478,7 +1486,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SignatureInterceptorIT'</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SignatureInterceptorIT.a'">
@@ -1662,7 +1670,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>455</Count>
+          <Count>457</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -1966,7 +1974,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'SignatureInterceptorIT'</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SignatureInterceptorIT2'">
@@ -2038,7 +2046,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'a()'</Description>
-          <Count>108</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'analyzeFilledSocia...()'">
@@ -2302,6 +2310,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'patientCantUpdateO...()'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'practitionerCanAdd...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'practitionerCanAdd...()'</Description>
           <Count>6</Count>
         </Item>
       </Statistic>
@@ -2806,7 +2822,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>963</Count>
+          <Count>966</Count>
         </Item>
       </Statistic>
     </option>
