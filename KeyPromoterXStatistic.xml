@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -62,7 +62,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
           <Description>Cut</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -670,7 +670,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1807</Count>
+          <Count>1809</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -774,7 +774,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
