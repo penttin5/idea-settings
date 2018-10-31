@@ -670,7 +670,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1646</Count>
+          <Count>1658</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -846,7 +846,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>103</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ATest.a (1)'">
@@ -2782,7 +2782,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -2798,7 +2798,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>560</Count>
+          <Count>562</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2830,7 +2830,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>967</Count>
+          <Count>969</Count>
         </Item>
       </Statistic>
     </option>
