@@ -14,7 +14,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>90</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>401</Count>
+          <Count>402</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -670,7 +670,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1873</Count>
+          <Count>1878</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -846,7 +846,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>108</Count>
+          <Count>109</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ATest.a (1)'">
@@ -1654,7 +1654,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -2822,7 +2822,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>573</Count>
+          <Count>574</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2854,7 +2854,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1002</Count>
+          <Count>1003</Count>
         </Item>
       </Statistic>
     </option>
