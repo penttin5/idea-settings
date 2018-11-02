@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>412</Count>
+          <Count>413</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -167,6 +167,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'a()'</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'addDecisionTextsRe...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'addDecisionTextsRe...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'assignCreatesRefer...()'">
@@ -351,6 +359,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'findActivityDefini...()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'findByQuestionnair...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'findByQuestionnair...()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'findByServiceReque...()'">
@@ -678,7 +694,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1915</Count>
+          <Count>1921</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -750,7 +766,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -854,7 +870,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>112</Count>
+          <Count>117</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ATest.a (1)'">
@@ -863,6 +879,38 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ATest.a (1)'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AccessControlWithContextPathIT.addDecisionTextsReturns401IfNotAuthorized (2)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AccessControlWithContextPathIT.addDecisionTextsReturns401IfNotAuthorized (2)'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AccessControlWithContextPathIT.addDecisionTextsReturns401IfNotAuthorized'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AccessControlWithContextPathIT.addDecisionTextsReturns401IfNotAuthorized'</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AccessControlWithContextPathIT.addDictionaryReturns401IfNotAuthorized (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AccessControlWithContextPathIT.addDictionaryReturns401IfNotAuthorized (1)'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AddControllerIT.updatingExistingDictionaryWithDifferingContentReturns409Conflict'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AddControllerIT.updatingExistingDictionaryWithDifferingContentReturns409Conflict'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-analytics-service_integrationTest (3)'">
@@ -894,7 +942,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-cds-service_test'</Description>
-          <Count>13</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-esb_test'">
@@ -1199,6 +1247,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CryptoTest.a'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DecisionTextsDaoIT'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DecisionTextsDaoIT'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DecisionTextsDaoIT.findByQuestionnaireNameAndVersionReturnsEmptyOptionalIfNotFound'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DecisionTextsDaoIT.findByQuestionnaireNameAndVersionReturnsEmptyOptionalIfNotFound'</Description>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FeedbackReportIT'">
@@ -1625,6 +1689,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'fi.oda in oda-cds-service_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'fi.oda in oda-cds-service_test'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'fi.oda.common.fhir in oda-fhir-service-common_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1686,7 +1758,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1694,7 +1766,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>488</Count>
+          <Count>502</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -1718,7 +1790,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>29</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -1846,6 +1918,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ContentSecurityPolicyReportTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DecisionTextsDaoIT'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DecisionTextsDaoIT'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2025,6 +2105,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'fi.oda''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'fi.oda''</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'fi.oda.common.fhir''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2079,6 +2167,22 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'a()'</Description>
           <Count>111</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'addDecisionTextsRe...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'addDecisionTextsRe...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'addDictionaryRetur...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'addDictionaryRetur...()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'analyzeFilledSocia...()'">
@@ -2231,6 +2335,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'findActiveByOrgani...()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'findByQuestionnair...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'findByQuestionnair...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'getCarePlanCategor...()'">
@@ -2521,6 +2633,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'updatingExistingDi...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'updatingExistingDi...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'wholeBookingProces...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2559,6 +2679,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in oda-analytics-service_integrationTest (3)'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All in oda-cds-service_test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'All in oda-cds-service_test'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in oda-fhir-service_test'">
@@ -2777,6 +2905,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'fi.oda in oda-cds-service_test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'fi.oda in oda-cds-service_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'fi.oda.fhirservice in oda-fhir-service_test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2814,7 +2950,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -2830,7 +2966,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>585</Count>
+          <Count>590</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2838,7 +2974,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>481</Count>
+          <Count>485</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -2854,7 +2990,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>25</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -2862,7 +2998,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1032</Count>
+          <Count>1048</Count>
         </Item>
       </Statistic>
     </option>
