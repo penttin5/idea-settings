@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>428</Count>
+          <Count>431</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -694,7 +694,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1997</Count>
+          <Count>2013</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1790,7 +1790,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>528</Count>
+          <Count>530</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -2158,7 +2158,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'fi.oda.fhirservice''</Description>
-          <Count>204</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'URIBuilderTest'">
@@ -3038,7 +3038,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1100</Count>
+          <Count>1103</Count>
         </Item>
       </Statistic>
     </option>
