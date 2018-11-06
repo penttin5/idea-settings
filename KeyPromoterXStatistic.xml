@@ -174,7 +174,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'a()'</Description>
-          <Count>31</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'addDecisionTextsRe...()'">
@@ -726,7 +726,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2042</Count>
+          <Count>2046</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -878,6 +878,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Recompile '...ntsBuilderTest.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'PhrFhirClientIT.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile 'PhrFhirClientIT.java'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1510,7 +1518,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PhrFhirClientIT.a'</Description>
-          <Count>11</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PlanDefinitionProviderIT'">
@@ -2238,7 +2246,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'a()'</Description>
-          <Count>113</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'addDecisionRulesRe...()'">
@@ -2422,6 +2430,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'findByQuestionnair...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'findEverythingByPa...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'findEverythingByPa...()'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -3070,7 +3086,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>501</Count>
+          <Count>503</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
