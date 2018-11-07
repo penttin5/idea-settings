@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>440</Count>
+          <Count>441</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -726,7 +726,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2051</Count>
+          <Count>2052</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1806,7 +1806,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1862,7 +1862,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3086,7 +3086,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>651</Count>
+          <Count>652</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3118,7 +3118,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1143</Count>
+          <Count>1144</Count>
         </Item>
       </Statistic>
     </option>
