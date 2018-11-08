@@ -1862,7 +1862,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -2214,7 +2214,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'fi.oda.fhirservice''</Description>
-          <Count>219</Count>
+          <Count>220</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'URIBuilderTest'">
