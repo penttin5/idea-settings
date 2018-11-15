@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>459</Count>
+          <Count>462</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -753,12 +753,20 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'yesPersonYesPatient()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'yesPersonYesPatient()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2251</Count>
+          <Count>2271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1513,6 +1521,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PatientProviderIT'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PatientProviderIT'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PatientProviderIT.yesPersonNoPatient'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PatientProviderIT.yesPersonNoPatient'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PegasosAppointmentProviderIT'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1934,7 +1958,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>625</Count>
+          <Count>626</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -2191,6 +2215,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PalveluohjainAppointmentProviderIT'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PatientProviderIT'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PatientProviderIT'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PegasosAppointmentProviderIT'">
@@ -2646,7 +2678,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'noPatientNoPerson()'</Description>
-          <Count>3</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'parameterFromLocal...()'">
@@ -2919,6 +2951,22 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'wholeBookingProces...()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'yesPersonNoPatient()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'yesPersonNoPatient()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'yesPersonYesPatient()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'yesPersonYesPatient()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -3262,7 +3310,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>681</Count>
+          <Count>688</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3270,7 +3318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>557</Count>
+          <Count>560</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -3294,7 +3342,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1213</Count>
+          <Count>1221</Count>
         </Item>
       </Statistic>
     </option>
