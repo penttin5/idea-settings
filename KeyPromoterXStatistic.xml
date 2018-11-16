@@ -774,7 +774,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2352</Count>
+          <Count>2355</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -838,7 +838,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>96</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -3422,7 +3422,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1295</Count>
+          <Count>1296</Count>
         </Item>
       </Statistic>
     </option>
