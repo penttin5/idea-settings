@@ -774,7 +774,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2342</Count>
+          <Count>2343</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1774,7 +1774,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ResultDtoTest.a'">
@@ -1998,7 +1998,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>646</Count>
+          <Count>647</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3414,7 +3414,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1275</Count>
+          <Count>1276</Count>
         </Item>
       </Statistic>
     </option>
