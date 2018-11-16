@@ -774,7 +774,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2334</Count>
+          <Count>2338</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2422,7 +2422,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'fi.oda.fhirservice''</Description>
-          <Count>239</Count>
+          <Count>241</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'fi.oda.log...'">
@@ -3382,7 +3382,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>710</Count>
+          <Count>711</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3414,7 +3414,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1257</Count>
+          <Count>1258</Count>
         </Item>
       </Statistic>
     </option>
