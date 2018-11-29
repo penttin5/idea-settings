@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>489</Count>
+          <Count>491</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -790,7 +790,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2441</Count>
+          <Count>2447</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OdaTransactionManagerTest'</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PalveluohjainAppointmentProviderIT'">
@@ -2278,7 +2278,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'OdaTransactionManagerTest'</Description>
-          <Count>11</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OdaTransactionTest'">
@@ -2718,7 +2718,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'generatesCorrectCa...()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'getCarePlanCategor...()'">
@@ -3422,7 +3422,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>770</Count>
+          <Count>771</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3454,7 +3454,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1352</Count>
+          <Count>1356</Count>
         </Item>
       </Statistic>
     </option>
