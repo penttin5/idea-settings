@@ -526,7 +526,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'memberCanSendAndAs...()'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'patient1ConsentQue...()'">
@@ -838,7 +838,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2733</Count>
+          <Count>2736</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1431,6 +1431,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanServiceAssignTest.assignCreatesReferralRequest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanServiceAssignTest.memberCanSendAndAssignCarePlan'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanServiceAssignTest.memberCanSendAndAssignCarePlan'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanServiceTest.sendUnconfirmedCarePlanCreatesAndSetsUnconfirmedPatientAsQuestionnaireResponseAndCarePlanSubject'">
@@ -2110,7 +2118,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>749</Count>
+          <Count>753</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -2134,7 +2142,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>96</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3558,7 +3566,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>842</Count>
+          <Count>846</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3566,7 +3574,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>604</Count>
+          <Count>609</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -3590,7 +3598,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1502</Count>
+          <Count>1509</Count>
         </Item>
       </Statistic>
     </option>
