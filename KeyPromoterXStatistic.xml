@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>553</Count>
+          <Count>556</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -745,6 +745,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'selectOrganization()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'selectOrganization()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'sendSiblingToServi...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -862,7 +870,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2863</Count>
+          <Count>2869</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2073,6 +2081,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'UserStoryStatusEnrichmentIT.selectOrganization'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserStoryStatusEnrichmentIT.selectOrganization'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'fi.oda in oda-cds-service_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2142,7 +2158,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2174,7 +2190,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>109</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -2577,6 +2593,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'fi.oda.analyticsservice''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'fi.oda.analyticsservice''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'fi.oda.common.fhir''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2631,6 +2655,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'UriComponentsBuilderTest'</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'UserStoryStatusEnrichmentIT'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'UserStoryStatusEnrichmentIT'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WinHitAppointmentProviderIT'">
@@ -3177,6 +3209,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'selectOrganization()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'selectOrganization()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'sendToServiceReque...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3638,7 +3678,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>614</Count>
+          <Count>617</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -3662,7 +3702,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1575</Count>
+          <Count>1581</Count>
         </Item>
       </Statistic>
     </option>
