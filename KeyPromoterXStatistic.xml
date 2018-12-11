@@ -30,7 +30,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>121</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>567</Count>
+          <Count>578</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -838,7 +838,15 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'userStoryDurationR...()'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'userStorySuccessRa...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'userStorySuccessRa...()'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'whitelistedCustomO...()'">
@@ -886,7 +894,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2907</Count>
+          <Count>2928</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1073,6 +1081,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reload Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Reload Page</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
@@ -1158,7 +1174,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-analytics-service_integrationTest (3)'</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-analytics-service_integrationTest (4)'">
@@ -2137,6 +2153,22 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'UserStoryDurationReportIT'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserStoryDurationReportIT'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UserStoryDurationReportIT.userStoryDurationReport'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserStoryDurationReportIT.userStoryDurationReport'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'UserStoryStatusEnrichmentIT'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2151,6 +2183,30 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'UserStoryStatusEnrichmentIT.selectOrganization'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UserStorySuccessRateReportIT'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserStorySuccessRateReportIT'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UserStorySuccessRateReportIT.userStorySuccessRateReporWithOrganizationOid'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserStorySuccessRateReportIT.userStorySuccessRateReporWithOrganizationOid'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UserStorySuccessRateReportIT.userStorySuccessRateReport'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserStorySuccessRateReportIT.userStorySuccessRateReport'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'fi.oda in oda-cds-service_test'">
@@ -2222,7 +2278,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2230,7 +2286,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>816</Count>
+          <Count>823</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -2254,7 +2310,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>128</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -2529,6 +2585,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'OdaWriteTransactionManagerTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'OdaWriteTransactionManagerTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'OrganizationOidsIT'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2737,12 +2801,28 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'UserStoryDurationReportIT'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'UserStoryDurationReportIT'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'UserStoryStatusEnrichmentIT'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'UserStoryStatusEnrichmentIT'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'UserStorySuccessRateReportIT'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'UserStorySuccessRateReportIT'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WinHitAppointmentProviderIT'">
@@ -2926,6 +3006,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'doInTransactionRol...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'duplicateFrontEven...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'duplicateFrontEven...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -3377,6 +3465,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'userStoryDurationR...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'userStoryDurationR...()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'userStorySuccessRa...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'userStorySuccessRa...()'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'whitelistedCustomO...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3697,6 +3801,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'UserStoryDurationReportIT.userStoryDurationReportWithoutTo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UserStoryDurationReportIT.userStoryDurationReportWithoutTo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'fi.oda in oda-cds-service_test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3766,7 +3878,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>904</Count>
+          <Count>907</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3774,7 +3886,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>640</Count>
+          <Count>646</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -3798,7 +3910,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1602</Count>
+          <Count>1615</Count>
         </Item>
       </Statistic>
     </option>
