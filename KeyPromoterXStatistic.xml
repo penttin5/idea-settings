@@ -697,6 +697,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'returnsCorrectOrga...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'returnsCorrectOrga...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'returnsCorrectSour...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -870,7 +878,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2869</Count>
+          <Count>2882</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1041,6 +1049,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'analytics.graphqls'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile 'analytics.graphqls'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refresh">
         <Item>
           <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
@@ -1111,6 +1127,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AddControllerIT.updatingExistingDictionaryWithDifferingContentReturns409Conflict'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'All in oda-analytics-service_integrationTest (2)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'All in oda-analytics-service_integrationTest (2)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-analytics-service_integrationTest (3)'">
@@ -1681,6 +1705,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OrganizationOidsIT.returnsCorrectOrganizationOids'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrganizationOidsIT.returnsCorrectOrganizationOids'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PalveluohjainAppointmentProviderIT'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2150,7 +2182,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2190,7 +2222,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>113</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3185,6 +3217,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'returnsCorrectOrga...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'returnsCorrectOrga...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'searchCarePlansByP...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3351,6 +3391,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
           <Count>27</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All in oda-analytics-service_integrationTest (2)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'All in oda-analytics-service_integrationTest (2)'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in oda-analytics-service_integrationTest (3)'">
@@ -3678,7 +3726,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>617</Count>
+          <Count>618</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -3702,7 +3750,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1581</Count>
+          <Count>1583</Count>
         </Item>
       </Statistic>
     </option>
