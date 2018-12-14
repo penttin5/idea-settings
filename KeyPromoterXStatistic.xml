@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>614</Count>
+          <Count>616</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -910,7 +910,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3010</Count>
+          <Count>3017</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1126,7 +1126,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>192</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ATest.a (1)'">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-fhir-service_test'</Description>
-          <Count>23</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-form-generator_test (1)'">
@@ -2318,7 +2318,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>859</Count>
+          <Count>867</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -2342,7 +2342,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>166</Count>
+          <Count>167</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3606,7 +3606,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in oda-analytics-service_integrationTest (1)'">
@@ -3662,7 +3662,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in oda-fhir-service_test'</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AppointmentBookingServiceExpiryTest.confirmExpiredPreBookedAppointmentThrowsException'">
@@ -3958,7 +3958,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1040</Count>
+          <Count>1041</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3990,7 +3990,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1760</Count>
+          <Count>1765</Count>
         </Item>
       </Statistic>
     </option>
