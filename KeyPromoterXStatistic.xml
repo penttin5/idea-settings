@@ -2318,7 +2318,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>868</Count>
+          <Count>869</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3958,7 +3958,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1043</Count>
+          <Count>1044</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3990,7 +3990,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1767</Count>
+          <Count>1768</Count>
         </Item>
       </Statistic>
     </option>
