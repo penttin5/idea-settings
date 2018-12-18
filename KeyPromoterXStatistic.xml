@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>619</Count>
+          <Count>620</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -926,7 +926,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3094</Count>
+          <Count>3162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -998,7 +998,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -1033,6 +1033,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Module Settings">
         <Item>
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
@@ -1062,7 +1070,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1598,6 +1606,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanProviderServiceGuidanceIT.patientCanSendCarePlanToCorrectServiceRequestList'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanSearchServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanSearchServiceTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2350,7 +2366,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -2374,7 +2390,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>878</Count>
+          <Count>879</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -2503,6 +2519,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanProviderServiceGuidanceIT'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CarePlanSearchServiceTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CarePlanSearchServiceTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanServiceAssignTest'">
@@ -4014,7 +4038,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -4062,7 +4086,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -4070,7 +4094,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1785</Count>
+          <Count>1787</Count>
         </Item>
       </Statistic>
     </option>
