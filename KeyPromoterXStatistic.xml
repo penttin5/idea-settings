@@ -702,7 +702,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'practitionerCanFor...()'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'practitionerCanSea...()'">
@@ -926,7 +926,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3162</Count>
+          <Count>3195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1334,7 +1334,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-fhir-service_test'</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-form-generator_test (1)'">
@@ -1639,6 +1639,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanServiceTest.sendUnconfirmedCarePlanCreatesAndSetsUnconfirmedPatientAsQuestionnaireResponseAndCarePlanSubject'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanServiceTest.testForwardingCarePlanWithLogging'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanServiceTest.testForwardingCarePlanWithLogging'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanServiceTest.withSupportingInfoIncludesAppointment'">
@@ -2390,7 +2398,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>879</Count>
+          <Count>884</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -2422,7 +2430,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>170</Count>
+          <Count>172</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -2502,7 +2510,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanProviderForwardIT'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanProviderIT'">
@@ -3593,6 +3601,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testForwardingCare...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'testForwardingCare...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testPatientCanCrea...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -4070,7 +4086,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>663</Count>
+          <Count>665</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -4086,7 +4102,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -4094,7 +4110,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1787</Count>
+          <Count>1789</Count>
         </Item>
       </Statistic>
     </option>
