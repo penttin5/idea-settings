@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>626</Count>
+          <Count>628</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -926,7 +926,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3312</Count>
+          <Count>3316</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1809,6 +1809,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LogEntryUtilTest.nullStringsIsRejected'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'LogEntryUtilTest.nullStringsIsRejected'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MedicationStatementIT.patientCanUpdateResource (4)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2446,7 +2454,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>184</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -2953,6 +2961,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'fi.oda.loggingservice''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'fi.oda.loggingservice''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'URIBuilderTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3343,6 +3359,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'noPatientNoPerson()'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'nullStringsIsRejec...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'nullStringsIsRejec...()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'oda-analytics-service [generateAnalyticsJooqSchemaSource]'">
@@ -4134,7 +4158,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1816</Count>
+          <Count>1818</Count>
         </Item>
       </Statistic>
     </option>
