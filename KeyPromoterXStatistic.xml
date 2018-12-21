@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>630</Count>
+          <Count>631</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -926,7 +926,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3354</Count>
+          <Count>3357</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1743,6 +1743,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DecisionTextsDaoIT.insertAndFindByQuestionnaireNameAndVersionWorks'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DtoConvertersTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DtoConvertersTest'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DtoConvertersTest.a'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DtoConvertersTest.a'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FeedbackReportIT'">
@@ -2633,6 +2649,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DtoConvertersTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DtoConvertersTest'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'EfficaAppointmentBookingClientTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3030,7 +3054,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'a()'</Description>
-          <Count>136</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'addDecisionRulesRe...()'">
@@ -4118,7 +4142,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -4134,7 +4158,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1101</Count>
+          <Count>1102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -4166,7 +4190,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1828</Count>
+          <Count>1830</Count>
         </Item>
       </Statistic>
     </option>
