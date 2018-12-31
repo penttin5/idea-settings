@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>662</Count>
+          <Count>665</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -143,6 +143,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'OdaFhirServiceApplicationTests'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'OdaWriteTransactionManagerTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'OdaWriteTransactionManagerTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OrganizationOidsIT'">
@@ -431,6 +439,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'customOperationDoe...()'</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'doInTransactionRet...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'doInTransactionRet...()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'doInTransactionRol...()'">
@@ -990,7 +1006,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3500</Count>
+          <Count>3502</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2041,6 +2057,22 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OdaWriteTransactionManagerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OdaWriteTransactionManagerTest'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OdaWriteTransactionManagerTest.doInTransactionReturnsBundleWithEmptyEntriesIfNothingToSave'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OdaWriteTransactionManagerTest.doInTransactionReturnsBundleWithEmptyEntriesIfNothingToSave'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OrganizationOidsIT.returnsCorrectOrganizationOids'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2974,7 +3006,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'OdaWriteTransactionManagerTest'</Description>
-          <Count>4</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OrganizationOidsIT'">
@@ -3431,6 +3463,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'd()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'doInTransactionRet...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'doInTransactionRet...()'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'doInTransactionRol...()'">
@@ -4446,7 +4486,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>699</Count>
+          <Count>705</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -4470,7 +4510,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1923</Count>
+          <Count>1925</Count>
         </Item>
       </Statistic>
     </option>
