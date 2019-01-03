@@ -1022,7 +1022,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3623</Count>
+          <Count>3624</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1958,6 +1958,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DtoConvertersTest.a'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FailedQuestionnaireReportIT.logsFailedQuestionnaireReport'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FailedQuestionnaireReportIT.logsFailedQuestionnaireReport'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -3775,6 +3783,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'linkAttachmentToQu...()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'logsFailedQuestion...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'logsFailedQuestion...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'memberCanSendAndAs...()'">
