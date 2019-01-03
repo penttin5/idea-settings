@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>685</Count>
+          <Count>687</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -1014,7 +1014,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3611</Count>
+          <Count>3614</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1286,7 +1286,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>200</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ATest.a (1)'">
@@ -2694,7 +2694,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>968</Count>
+          <Count>974</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -4198,7 +4198,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>43</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in oda-analytics-service_integrationTest (1)'">
@@ -4590,7 +4590,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1985</Count>
+          <Count>1986</Count>
         </Item>
       </Statistic>
     </option>
