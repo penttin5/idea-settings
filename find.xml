@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
+    <option name="customScope" value="File '~/projects/oda2/oda-media-storage/src/main/java/fi/oda/mediastorage/auth/AuthenticationService.java [oda-media-storage_main]'" />
+    <option name="defaultScopeName" value="File '~/projects/oda2/oda-media-storage/src/main/java/fi/oda/mediastorage/auth/AuthenticationService.java [oda-media-storage_main]'" />
     <option name="preserveCase" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '~/projects/oda2/oda-media-storage/src/main/java/fi/oda/mediastorage/auth/AuthenticationService.java [oda-media-storage_main]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
