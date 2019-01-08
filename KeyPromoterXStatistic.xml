@@ -1086,7 +1086,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3699</Count>
+          <Count>3700</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2846,7 +2846,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1008</Count>
+          <Count>1012</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -4414,7 +4414,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ATest'">
@@ -4822,7 +4822,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2050</Count>
+          <Count>2051</Count>
         </Item>
       </Statistic>
     </option>
