@@ -1366,7 +1366,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>201</Count>
+          <Count>205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ATest'">
@@ -2846,7 +2846,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1001</Count>
+          <Count>1008</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -4414,7 +4414,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>49</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ATest'">
@@ -4774,7 +4774,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>22</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -4790,7 +4790,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1219</Count>
+          <Count>1220</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -4822,7 +4822,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2044</Count>
+          <Count>2050</Count>
         </Item>
       </Statistic>
     </option>
