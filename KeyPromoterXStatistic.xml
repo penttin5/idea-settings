@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>712</Count>
+          <Count>713</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -2846,7 +2846,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1015</Count>
+          <Count>1016</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -4822,7 +4822,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2052</Count>
+          <Count>2053</Count>
         </Item>
       </Statistic>
     </option>
