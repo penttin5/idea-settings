@@ -1094,7 +1094,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3714</Count>
+          <Count>3716</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2894,7 +2894,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>305</Count>
+          <Count>308</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3359,6 +3359,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'QuestionnaireResponseProviderMockedCdsIT'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RestQuestionnaireRepositoryTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RestQuestionnaireRepositoryTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ResultDtoTest'">
@@ -4462,7 +4470,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in oda-analytics-service_integrationTest (3)'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in oda-analytics-service_integrationTest'">
@@ -4838,7 +4846,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2069</Count>
+          <Count>2070</Count>
         </Item>
       </Statistic>
     </option>
