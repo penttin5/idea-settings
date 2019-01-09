@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="OM-3114" />
-    <option name="defaultScopeName" value="OM-3114" />
-    <option name="SEARCH_SCOPE" value="OM-3114" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,10 +15,10 @@
     <mask>build.gradle</mask>
     <mask>*Service.java</mask>
     <mask>*Test.java</mask>
-    <mask>*.java</mask>
     <mask>*IT.java</mask>
     <mask>*Provider.java</mask>
     <mask>*ProviderIT.java</mask>
     <mask>*Repository.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
