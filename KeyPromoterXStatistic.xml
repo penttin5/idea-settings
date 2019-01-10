@@ -1102,7 +1102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3776</Count>
+          <Count>3781</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-analytics-service_integrationTest (1)'</Description>
-          <Count>20</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-analytics-service_integrationTest (2)'">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-analytics-service_integrationTest (3)'</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-analytics-service_integrationTest (4)'">
@@ -2918,7 +2918,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1054</Count>
+          <Count>1056</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -2950,7 +2950,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>324</Count>
+          <Count>326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -4934,7 +4934,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2103</Count>
+          <Count>2104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
