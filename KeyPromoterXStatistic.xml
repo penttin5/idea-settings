@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>727</Count>
+          <Count>728</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -174,6 +174,14 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'FeedbackReportIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ImportFrontEventLogEntriesAsIsIT'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'ImportFrontEventLogEntriesAsIsIT'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1001,6 +1009,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'skipsMalformedLogE...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'skipsMalformedLogE...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'stripTrailingZeros...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1102,7 +1118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3781</Count>
+          <Count>3794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2174,7 +2190,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ImportFrontEventLogEntriesAsIsIT.storesFrontEventLogEntriesAsIs'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'JDependTest'">
@@ -2561,6 +2577,14 @@
           <Count>49</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RestLogEntryLoaderTest.skipsMalformedLogEntries'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RestLogEntryLoaderTest.skipsMalformedLogEntries'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RestQuestionnaireRepositoryMockedIT'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2918,7 +2942,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1056</Count>
+          <Count>1058</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -2950,7 +2974,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>326</Count>
+          <Count>337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3417,6 +3441,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'RestLogEntryLoaderTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RestLogEntryLoaderTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'RestQuestionnaireRepositoryMockedIT'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3830,7 +3862,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'duplicateFrontEven...()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'encodesQueryParams()'">
@@ -4353,12 +4385,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'skipsMalformedLogE...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'skipsMalformedLogE...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'storesFrontEventLo...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'storesFrontEventLo...()'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'stripTrailingZeros...()'">
@@ -4910,7 +4950,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>757</Count>
+          <Count>763</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -4934,7 +4974,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2104</Count>
+          <Count>2107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
