@@ -5054,7 +5054,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2126</Count>
+          <Count>2127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
