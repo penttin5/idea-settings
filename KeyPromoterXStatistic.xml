@@ -38,7 +38,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>171</Count>
+          <Count>172</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>735</Count>
+          <Count>739</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -270,7 +270,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'a()'</Description>
-          <Count>39</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'addDecisionTextsRe...()'">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3912</Count>
+          <Count>3945</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1769,6 +1769,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CarePlanApplicationServiceTest.sendUnconfirmedCarePlanSendsNotification'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanApplicationServiceTest.sendUnconfirmedCarePlanSendsNotification'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CarePlanApplicationServiceTest.sendUnconfirmedCarePlanSubmitsTransferLogEntry'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2335,6 +2343,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OdaBundleTest.buildingBundleWithUnexpectedEmptyContentsThrowsIllegalArgumentException'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OdaPlanDefinitionCarePlanBuilderTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OdaPlanDefinitionCarePlanBuilderTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OdaPlanDefinitionCarePlanBuilderTest.a'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OdaPlanDefinitionCarePlanBuilderTest.a'</Description>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OdaTransactionManagerTest'">
@@ -2990,7 +3014,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1080</Count>
+          <Count>1083</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3022,7 +3046,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>344</Count>
+          <Count>346</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3102,7 +3126,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanApplicationServiceTest'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanBuilderTest'">
@@ -3359,6 +3383,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'OdaCodingTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OdaPlanDefinitionCarePlanBuilderTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'OdaPlanDefinitionCarePlanBuilderTest'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OdaResourceTest'">
@@ -3718,7 +3750,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'a()'</Description>
-          <Count>160</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'addActivityNotifies()'">
@@ -4470,7 +4502,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'sendUnconfirmedCar...()'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'sendUnconfirmedSen...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'sendUnconfirmedSen...()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'signatureCheckIsSk...()'">
@@ -5046,7 +5086,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1273</Count>
+          <Count>1278</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -5054,7 +5094,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>774</Count>
+          <Count>789</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -5078,7 +5118,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2137</Count>
+          <Count>2147</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
