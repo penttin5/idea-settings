@@ -1142,7 +1142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4030</Count>
+          <Count>4031</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2942,7 +2942,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'fi.oda.fhirservice in oda-fhir-service_test'</Description>
-          <Count>99</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'fi.oda.mediastorage in oda-media-storage.test'">
