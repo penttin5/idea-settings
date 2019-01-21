@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>783</Count>
+          <Count>784</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -713,6 +713,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'messageIsLoggedAsE...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'messageIsLoggedAsE...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'patient1ConsentQue...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1158,7 +1166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4275</Count>
+          <Count>4279</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1583,6 +1591,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-analytics-service_test'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'All in oda-backend_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'All in oda-backend_test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-cds-service_test'">
@@ -2231,6 +2247,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FeedbackReportIT.feedbackReport'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FrontendLogControllerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FrontendLogControllerTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'HtmlSanitizerTest'">
@@ -3038,7 +3062,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1133</Count>
+          <Count>1136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3070,7 +3094,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>388</Count>
+          <Count>392</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3319,6 +3343,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'FhirResourceFactoryTest'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FrontendLogControllerTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FrontendLogControllerTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HtmlSanitizerTest'">
@@ -4766,7 +4798,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>65</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ATest'">
@@ -4807,6 +4839,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in oda-analytics-service_integrationTest'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All in oda-backend_test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'All in oda-backend_test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in oda-cds-service_test'">
@@ -5142,7 +5182,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1411</Count>
+          <Count>1417</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -5150,7 +5190,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>829</Count>
+          <Count>832</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -5174,7 +5214,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2292</Count>
+          <Count>2298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
