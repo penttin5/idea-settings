@@ -1166,7 +1166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4280</Count>
+          <Count>4283</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1807,6 +1807,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanApplicationServiceTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanApplicationServiceTest.sendCarePlanToServiceRequestListAsAnonymousSubmitsOperationLogEntry'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanApplicationServiceTest.sendCarePlanToServiceRequestListAsAnonymousSubmitsOperationLogEntry'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanApplicationServiceTest.sendUnconfirmedCarePlanSendsNotification'">
@@ -2694,7 +2702,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RestLogEntryLoaderTest.skipsMalformedLogEntries'">
@@ -3174,7 +3182,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanApplicationServiceTest'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanBuilderTest'">
@@ -4577,6 +4585,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'sendCarePlanToServ...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'sendCarePlanToServ...()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'sendToServiceReque...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -5222,7 +5238,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2313</Count>
+          <Count>2315</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
