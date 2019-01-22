@@ -38,7 +38,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>175</Count>
+          <Count>176</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>788</Count>
+          <Count>790</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -94,7 +94,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
           <Description>Cut</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4297</Count>
+          <Count>4301</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1375,6 +1375,14 @@
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Recompile '...achmentService.java'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ionServiceTest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile '...ionServiceTest.java'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...ntsBuilderTest.java'">
@@ -1814,7 +1822,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanApplicationServiceTest'</Description>
-          <Count>9</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanApplicationServiceTest.sendCarePlanToServiceRequestListAsAnonymousSubmitsOperationLogEntry'">
@@ -3078,7 +3086,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1156</Count>
+          <Count>1158</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3110,7 +3118,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>397</Count>
+          <Count>398</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3190,7 +3198,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanApplicationServiceTest'</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanBuilderTest'">
@@ -3942,6 +3950,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'answeredQuestionLi...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'assignCarePlanSend...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'assignCarePlanSend...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -5230,7 +5246,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1431</Count>
+          <Count>1432</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -5262,7 +5278,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2317</Count>
+          <Count>2320</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
