@@ -1001,6 +1001,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'sendCarePlanToServ...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'sendCarePlanToServ...()'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'sendSiblingToServi...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1166,7 +1174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4283</Count>
+          <Count>4293</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1806,7 +1814,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanApplicationServiceTest'</Description>
-          <Count>1</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanApplicationServiceTest.sendCarePlanToServiceRequestListAsAnonymousSubmitsOperationLogEntry'">
@@ -1814,7 +1822,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanApplicationServiceTest.sendCarePlanToServiceRequestListAsAnonymousSubmitsOperationLogEntry'</Description>
-          <Count>3</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanApplicationServiceTest.sendUnconfirmedCarePlanSendsNotification'">
@@ -3070,7 +3078,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1151</Count>
+          <Count>1155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3182,7 +3190,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanApplicationServiceTest'</Description>
-          <Count>5</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanBuilderTest'">
@@ -4590,7 +4598,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'sendCarePlanToServ...()'</Description>
-          <Count>4</Count>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'sendStandaloneCare...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'sendStandaloneCare...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'sendToServiceReque...()'">
@@ -4814,7 +4830,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>6</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -5214,7 +5230,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>833</Count>
+          <Count>850</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
