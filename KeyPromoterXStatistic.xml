@@ -30,7 +30,7 @@
           <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
           <ShortCut>'⇧⌘8'</ShortCut>
           <Description>Column Selection Mode</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>95</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ATest'">
@@ -326,7 +326,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'assignCreatesRefer...()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'b()'">
@@ -383,6 +383,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'canBuildValidBundle()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'cannotBookWithDeni...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'cannotBookWithDeni...()'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'cannotBookWithMiss...()'">
@@ -798,7 +806,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'patientCanComplete...()'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'patientCanCreateCa...()'">
@@ -830,7 +838,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'patientCanRejectFi...()'</Description>
-          <Count>11</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'patientCanSendCare...()'">
@@ -958,7 +966,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'practitionerHasCor...()'</Description>
-          <Count>2</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'returnsCorrectMuni...()'">
@@ -1222,7 +1230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4433</Count>
+          <Count>4466</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1286,7 +1294,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -1318,7 +1326,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>137</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -1710,7 +1718,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-fhir-service-common_test (1)'</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-fhir-service-common_test'">
@@ -1742,7 +1750,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-fhir-service_test'</Description>
-          <Count>49</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-form-generator_test (1)'">
@@ -1793,6 +1801,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ApiUserContextTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ApiUserContextTest'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiUserContextTest.siteResponsibleHasCorrectRightsToResources'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ApiUserContextTest.siteResponsibleHasCorrectRightsToResources'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'AppointmentBookingServiceExpiryTest.confirmExpiredPreBookedAppointmentThrowsException'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1838,6 +1862,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AppointmentProviderMockedEsbIT.confirmPreBookedAppointmentsSucceeds'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AppointmentServiceTest.cannotBookWithDeniedConsent'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AppointmentServiceTest.cannotBookWithDeniedConsent'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1958,7 +1990,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanCompleteServiceIT.patientCanRejectFinishedCarePlan'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanCompleteServiceIT.patientCanSendCarePlan'">
@@ -1975,6 +2007,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanCompleteServiceIT.xssIsFilteredOnSend'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanCompleteServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanCompleteServiceTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanProviderForwardIT'">
@@ -2158,7 +2198,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanServiceAssignTest.assignCreatesReferralRequest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanServiceAssignTest.memberCanSendAndAssignCarePlan'">
@@ -2798,7 +2838,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RestLogEntryLoaderTest.skipsMalformedLogEntries'">
@@ -3166,7 +3206,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1176</Count>
+          <Count>1185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3198,7 +3238,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>417</Count>
+          <Count>429</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3207,6 +3247,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AnonymousAccessResolverTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ApiUserContextTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ApiUserContextTest'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AppointmentBookingServiceTest'">
@@ -3246,7 +3294,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AppointmentServiceTest'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AttachmentControllerIT'">
@@ -3297,6 +3345,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CarePlanCompleteServiceTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CarePlanCompleteServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CarePlanProviderForwardIT'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3310,7 +3366,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanProviderIT'</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanProviderServiceGuidanceIT'">
@@ -3326,7 +3382,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanSearchServiceTest'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanServiceAssignTest'">
@@ -3334,7 +3390,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanServiceAssignTest'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanServiceSearchTest'">
@@ -4062,7 +4118,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'assignCreatesRefer...()'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'b()'">
@@ -4785,6 +4841,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'siteResponsibleHas...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'siteResponsibleHas...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'skipsMalformedLogE...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -4966,7 +5030,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ATest'">
@@ -5030,7 +5094,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in oda-fhir-service-common_test'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in oda-fhir-service_test (1)'">
@@ -5046,7 +5110,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in oda-fhir-service_test'</Description>
-          <Count>34</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in oda-media-storage.test'">
@@ -5374,7 +5438,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>878</Count>
+          <Count>900</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -5398,7 +5462,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2343</Count>
+          <Count>2348</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
