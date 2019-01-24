@@ -1198,7 +1198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4405</Count>
+          <Count>4406</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -3134,7 +3134,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1174</Count>
+          <Count>1175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -5302,7 +5302,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1446</Count>
+          <Count>1448</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -5334,7 +5334,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2338</Count>
+          <Count>2339</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
