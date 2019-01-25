@@ -1718,7 +1718,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-fhir-service-common_test (1)'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-fhir-service-common_test'">
@@ -3238,7 +3238,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>429</Count>
+          <Count>430</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3751,6 +3751,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PlanDefinitionProviderIT'</Description>
           <Count>39</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PractitionerAccessResolverTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PractitionerAccessResolverTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'QuestionnaireResponseProviderMockedCdsIT'">
