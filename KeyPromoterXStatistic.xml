@@ -929,6 +929,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'practitionerCanRea...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'practitionerCanRea...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'practitionerCanSea...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -3206,7 +3214,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1185</Count>
+          <Count>1186</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -4641,6 +4649,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'practitionerCanRea...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'practitionerCanRea...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'practitionerCanSea...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -5446,7 +5462,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>900</Count>
+          <Count>904</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
