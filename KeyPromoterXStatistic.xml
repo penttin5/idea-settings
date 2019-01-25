@@ -1238,7 +1238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4466</Count>
+          <Count>4470</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ATest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ATest.a (1)'">
@@ -1575,6 +1575,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ATest.a'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ATest.b'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ATest.b'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AccessControlWithContextPathIT.addDecisionRulesReturns401IfNotAuthorized'">
@@ -3222,7 +3230,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ATest'</Description>
-          <Count>12</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivityDefinitionServiceTest'">
@@ -4030,7 +4038,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'a()'</Description>
-          <Count>168</Count>
+          <Count>182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'addActivityNotifies()'">
@@ -4142,7 +4150,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'b()'</Description>
-          <Count>18</Count>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'c()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'c()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'commitWorks()'">
