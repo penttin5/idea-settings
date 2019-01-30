@@ -2462,7 +2462,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FailedQuestionnaireReportIT.failedQuestionnaireReport'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FailedQuestionnaireReportIT.logsFailedQuestionnaireReport'">
@@ -3350,7 +3350,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1217</Count>
+          <Count>1218</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -4462,7 +4462,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'failedQuestionnair...()'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'feedbackReport()'">
