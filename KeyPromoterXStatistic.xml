@@ -1302,7 +1302,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4589</Count>
+          <Count>4593</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1414,7 +1414,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move to Another Changelist...">
@@ -1590,7 +1590,7 @@
           <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Refresh</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -3350,7 +3350,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1215</Count>
+          <Count>1216</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -5638,7 +5638,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1497</Count>
+          <Count>1498</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -5670,7 +5670,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2416</Count>
+          <Count>2419</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
