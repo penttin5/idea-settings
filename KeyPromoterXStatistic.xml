@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>849</Count>
+          <Count>855</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -687,6 +687,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'findPatientHistory...()'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'forwardIsAllowedFr...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'forwardIsAllowedFr...()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'generate-forms'">
@@ -1366,7 +1374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4894</Count>
+          <Count>4907</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2606,7 +2614,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ForwardCarePlanOperationTest'</Description>
-          <Count>27</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ForwardCarePlanOperationTest.isAllowedIfNewServiceRequestListsManagingOrganizationIsChildOfCurrentServiceRequestListsManagingOrganization'">
@@ -3510,7 +3518,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1237</Count>
+          <Count>1238</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3542,7 +3550,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>496</Count>
+          <Count>497</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3814,7 +3822,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ForwardCarePlanOperationTest'</Description>
-          <Count>40</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FrontendLogControllerTest'">
@@ -5481,6 +5489,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop">
         <Item>
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
@@ -5910,7 +5926,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1528</Count>
+          <Count>1529</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -5918,7 +5934,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>962</Count>
+          <Count>964</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -5942,7 +5958,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2473</Count>
+          <Count>2479</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
