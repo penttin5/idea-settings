@@ -305,6 +305,14 @@
           <Count>54</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'accessControlCalled()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'accessControlCalled()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'addDecisionTextsRe...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1382,7 +1390,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4918</Count>
+          <Count>4931</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2505,6 +2513,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ConsentServiceTest.accessControlCalled'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ConsentServiceTest.accessControlCalled'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CryptoTest.a'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -3134,7 +3150,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ResponseTimeReportServiceTest'">
@@ -3526,7 +3542,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1253</Count>
+          <Count>1259</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3542,7 +3558,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ActivityDefinitionServiceTest'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AgeCalculatorTest'">
@@ -3558,7 +3574,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>502</Count>
+          <Count>504</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3767,6 +3783,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CollectionUtilsTest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ConsentServiceTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ConsentServiceTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ContentSecurityPolicyReportTest'">
@@ -4383,6 +4407,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'a()'</Description>
           <Count>188</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'accessControlCalled()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'accessControlCalled()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'addActivityNotifies()'">
@@ -5950,7 +5982,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1569</Count>
+          <Count>1580</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -5958,7 +5990,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>966</Count>
+          <Count>967</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -5974,7 +6006,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -5982,7 +6014,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2522</Count>
+          <Count>2538</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
