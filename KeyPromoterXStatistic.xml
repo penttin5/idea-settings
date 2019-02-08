@@ -1390,7 +1390,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4970</Count>
+          <Count>4971</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -3854,7 +3854,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ForwardCarePlanOperationTest'</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FrontendLogControllerTest'">
