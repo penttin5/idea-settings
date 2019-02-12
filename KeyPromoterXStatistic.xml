@@ -1398,7 +1398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5156</Count>
+          <Count>5157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2151,6 +2151,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AuthenticationServiceTest'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BodyTemperatureMeasurementTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'BodyTemperatureMeasurementTest'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanApplicationServiceTest'">
@@ -3671,6 +3679,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AuthenticationServiceTest'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BodyTemperatureMeasurementTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'BodyTemperatureMeasurementTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanApplicationServiceTest'">
