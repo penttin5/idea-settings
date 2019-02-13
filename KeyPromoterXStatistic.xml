@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>883</Count>
+          <Count>884</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -809,6 +809,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'isAllowedIfCarePla...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'isAllowedIfCarePla...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'isAllowedIfManagin...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -894,6 +902,22 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'nonMemberCannotSen...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'notAllowedIfCurren...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'notAllowedIfCurren...()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'notAllowedIfNewCar...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'notAllowedIfNewCar...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1406,7 +1430,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5226</Count>
+          <Count>5233</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1662,6 +1686,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Recompile '...ntsBuilderTest.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...rOperationTest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile '...rOperationTest.java'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2119,6 +2151,30 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AppointmentServiceTest.cannotBookWithDeniedConsent'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AssignCareManagerOperationTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AssignCareManagerOperationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AssignCareManagerOperationTest.throwsIllegalArgumentExceptionIfCarePlansServiceRequestListDoesNotReferToCurrentServiceRequestList'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AssignCareManagerOperationTest.throwsIllegalArgumentExceptionIfCarePlansServiceRequestListDoesNotReferToCurrentServiceRequestList'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AssignCareManagerOperationTest.throwsIllegalArgumentExceptionIfCurrentEpisodeOfCareParameterIsDoesNotMatchWithCarePlansEpisodeOfCare'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AssignCareManagerOperationTest.throwsIllegalArgumentExceptionIfCurrentEpisodeOfCareParameterIsDoesNotMatchWithCarePlansEpisodeOfCare'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AttachmentControllerIT.getAttachmentNotFound'">
@@ -3606,7 +3662,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>546</Count>
+          <Count>547</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3663,6 +3719,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AppointmentServiceTest'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AssignCareManagerOperationTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'AssignCareManagerOperationTest'</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AttachmentControllerIT'">
@@ -4905,6 +4969,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'isAllowedIfCarePla...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'isAllowedIfCarePla...()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'isAllowedIfManagin...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -4998,6 +5070,22 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'notAllowedForNonPr...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'notAllowedIfCurren...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'notAllowedIfCurren...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'notAllowedIfNotInA...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'notAllowedIfNotInA...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -5455,6 +5543,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'testPatientCanCrea...()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'throwsIllegalArgum...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'throwsIllegalArgum...()'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'toLocalDate()'">
@@ -6054,7 +6150,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1622</Count>
+          <Count>1624</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -6062,7 +6158,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>983</Count>
+          <Count>988</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -6086,7 +6182,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2623</Count>
+          <Count>2626</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
