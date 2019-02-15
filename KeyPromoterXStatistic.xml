@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>897</Count>
+          <Count>900</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -351,6 +351,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'analyzeFilledSympt...()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'assignCarePlanSend...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'assignCarePlanSend...()'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'assignCreatesRefer...()'">
@@ -1345,6 +1353,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'testAssigningCareP...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'testAssigningCareP...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'testForwardingCare...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'testForwardingCare...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'update-to-phr'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1438,7 +1462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5316</Count>
+          <Count>5332</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1606,7 +1630,7 @@
           <IdeaActionID>PasteMultiple</IdeaActionID>
           <ShortCut>'⇧⌘V'</ShortCut>
           <Description>Paste from History...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -2239,6 +2263,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CarePlanApplicationServiceTest'</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CarePlanApplicationServiceTest.assignCarePlanSendsNotification'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CarePlanApplicationServiceTest.assignCarePlanSendsNotification'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CarePlanApplicationServiceTest.forwardCarePlanSendsNotification'">
@@ -3646,7 +3678,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1313</Count>
+          <Count>1317</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3678,7 +3710,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>560</Count>
+          <Count>563</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -3782,7 +3814,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CarePlanApplicationServiceTest'</Description>
-          <Count>28</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarePlanBuilderTest'">
@@ -4430,7 +4462,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'fi.oda.fhirservice''</Description>
-          <Count>298</Count>
+          <Count>300</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'fi.oda.fhirservice.service.careplan''">
@@ -6150,7 +6182,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -6174,7 +6206,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1632</Count>
+          <Count>1635</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -6182,7 +6214,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>991</Count>
+          <Count>1002</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -6206,7 +6238,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2653</Count>
+          <Count>2661</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
