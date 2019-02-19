@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>917</Count>
+          <Count>918</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5494</Count>
+          <Count>5497</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -3694,7 +3694,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1335</Count>
+          <Count>1337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3726,7 +3726,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>589</Count>
+          <Count>591</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -6262,7 +6262,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2719</Count>
+          <Count>2721</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
