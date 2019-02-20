@@ -1502,7 +1502,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5552</Count>
+          <Count>5553</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2990,6 +2990,22 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OdaBundleTest.buildingBundleWithUnexpectedEmptyContentsThrowsIllegalArgumentException'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OdaCsrfRequestMatcherTest.websocketConnectionUpgradeWithBearerTokenDoestNotRequiresProtection'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OdaCsrfRequestMatcherTest.websocketConnectionUpgradeWithBearerTokenDoestNotRequiresProtection'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OdaCsrfRequestMatcherTest.websocketConnectionUpgradedRequiresProtection'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OdaCsrfRequestMatcherTest.websocketConnectionUpgradedRequiresProtection'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -5759,6 +5775,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'visitorReport()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'websocketConnectio...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'websocketConnectio...()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'whitelistedCustomO...()'">
