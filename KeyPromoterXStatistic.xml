@@ -1510,7 +1510,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5569</Count>
+          <Count>5570</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1878,7 +1878,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>236</Count>
+          <Count>241</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ATest'">
@@ -3782,7 +3782,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1346</Count>
+          <Count>1352</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -6374,7 +6374,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1685</Count>
+          <Count>1690</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -6382,7 +6382,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1038</Count>
+          <Count>1039</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -6406,7 +6406,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2739</Count>
+          <Count>2745</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
