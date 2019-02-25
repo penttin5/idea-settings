@@ -1910,7 +1910,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>242</Count>
+          <Count>243</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ATest'">
@@ -6502,7 +6502,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1695</Count>
+          <Count>1696</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
