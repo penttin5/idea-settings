@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '~/projects/oda2/oda-logging-service/client/src/main/java/fi/oda/loggingservice/model/OperationLogEntry.java [client_main]'" />
+    <option name="defaultScopeName" value="File '~/projects/oda2/oda-logging-service/client/src/main/java/fi/oda/loggingservice/model/OperationLogEntry.java [client_main]'" />
+    <option name="SEARCH_SCOPE" value="File '~/projects/oda2/oda-logging-service/client/src/main/java/fi/oda/loggingservice/model/OperationLogEntry.java [client_main]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
