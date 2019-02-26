@@ -38,7 +38,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>194</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>939</Count>
+          <Count>940</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5795</Count>
+          <Count>5797</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -6558,7 +6558,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2774</Count>
+          <Count>2775</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
