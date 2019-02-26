@@ -1542,7 +1542,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5698</Count>
+          <Count>5707</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -6526,7 +6526,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1703</Count>
+          <Count>1704</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
