@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>944</Count>
+          <Count>945</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare with the Same Repository Version">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5814</Count>
+          <Count>5832</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1918,7 +1918,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>255</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ATest'">
@@ -2134,7 +2134,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in oda-fhir-service_test (1)'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in oda-fhir-service_test (2)'">
@@ -3862,7 +3862,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>1401</Count>
+          <Count>1405</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ATest'">
@@ -3894,7 +3894,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>628</Count>
+          <Count>631</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -6142,7 +6142,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in oda-fhir-service_test (1)'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in oda-fhir-service_test'">
@@ -6566,7 +6566,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2790</Count>
+          <Count>2793</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
