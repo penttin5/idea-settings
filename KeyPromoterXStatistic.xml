@@ -3894,7 +3894,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>626</Count>
+          <Count>627</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnonymousAccessResolverTest'">
@@ -6542,7 +6542,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1146</Count>
+          <Count>1148</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -6566,7 +6566,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2785</Count>
+          <Count>2786</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
