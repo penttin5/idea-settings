@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '~/projects/oda2/oda-esb/src/test/groovy/fi/oda/esb/mediatri/MediatriAppointmentBookingClientTest.java [oda-esb_test]'" />
+    <option name="defaultScopeName" value="File '~/projects/oda2/oda-esb/src/test/groovy/fi/oda/esb/mediatri/MediatriAppointmentBookingClientTest.java [oda-esb_test]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '~/projects/oda2/oda-esb/src/test/groovy/fi/oda/esb/mediatri/MediatriAppointmentBookingClientTest.java [oda-esb_test]'" />
     <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
