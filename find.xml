@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,7 +14,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>build.gradle</mask>
     <mask>*Test.java</mask>
     <mask>*IT.java</mask>
     <mask>*ProviderIT.java</mask>
@@ -23,5 +23,6 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*Provider.java</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>
