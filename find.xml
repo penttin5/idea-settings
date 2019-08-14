@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../infra/roles/fimea-deployer/templates/deploy.sh [fimea-register-platform]'" />
+    <option name="defaultScopeName" value="File '.../infra/roles/fimea-deployer/templates/deploy.sh [fimea-register-platform]'" />
+    <option name="SEARCH_SCOPE" value="File '.../infra/roles/fimea-deployer/templates/deploy.sh [fimea-register-platform]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
