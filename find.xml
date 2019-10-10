@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/MedicinalProductFormData.java [fimea-register-platform.ma-register-core.main]'" />
-    <option name="defaultScopeName" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/MedicinalProductFormData.java [fimea-register-platform.ma-register-core.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/MedicinalProductFormData.java [fimea-register-platform.ma-register-core.main]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
