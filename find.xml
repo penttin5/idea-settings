@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/codeset/CodeSetService.java [fimea-register-platform.ma-register-core.main]'" />
     <option name="defaultScopeName" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/codeset/CodeSetService.java [fimea-register-platform.ma-register-core.main]'" />
-    <option name="localRegularExpressions" value="true" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/codeset/CodeSetService.java [fimea-register-platform.ma-register-core.main]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
