@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../ma-register-core/src/main/java/fi/fimea/maregister/form [fimea-register-platform.ma-register-core.main]'" />
-    <option name="defaultScopeName" value="Directory '.../ma-register-core/src/main/java/fi/fimea/maregister/form [fimea-register-platform.ma-register-core.main]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../ma-register-core/src/main/java/fi/fimea/maregister/form [fimea-register-platform.ma-register-core.main]'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
