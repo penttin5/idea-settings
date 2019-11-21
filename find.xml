@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../ma-register-core/src/main/java/fi/fimea/maregister/search [fimea-register-platform.ma-register-core.main]'" />
-    <option name="defaultScopeName" value="Directory '.../ma-register-core/src/main/java/fi/fimea/maregister/search [fimea-register-platform.ma-register-core.main]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../ma-register-core/src/main/java/fi/fimea/maregister/search [fimea-register-platform.ma-register-core.main]'" />
+    <option name="customScope" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/codeset/management/CodeSetManagementService.java [fimea-register-platform.ma-register-core.main]'" />
+    <option name="defaultScopeName" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/codeset/management/CodeSetManagementService.java [fimea-register-platform.ma-register-core.main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/codeset/management/CodeSetManagementService.java [fimea-register-platform.ma-register-core.main]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
