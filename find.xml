@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../ma-register-core/src/main/java/fi/fimea/maregister/form/dto [fimea-register-platform.ma-register-core.main]'" />
-    <option name="defaultScopeName" value="Directory '.../ma-register-core/src/main/java/fi/fimea/maregister/form/dto [fimea-register-platform.ma-register-core.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../ma-register-core/src/main/java/fi/fimea/maregister/form/dto [fimea-register-platform.ma-register-core.main]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Spec.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,5 +28,6 @@
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.plantuml</mask>
+    <mask>*Spec.java</mask>
   </component>
 </application>
