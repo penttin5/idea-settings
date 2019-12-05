@@ -3,9 +3,11 @@
     <option name="customScope" value="File '.../ma-register-core/src/test/java/fi/fimea/maregister/form/FormValidatorTest.java [fimea-register-platform.ma-register-core.test]'" />
     <option name="defaultScopeName" value="File '.../ma-register-core/src/test/java/fi/fimea/maregister/form/FormValidatorTest.java [fimea-register-platform.ma-register-core.test]'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="preserveCase" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../ma-register-core/src/test/java/fi/fimea/maregister/form/FormValidatorTest.java [fimea-register-platform.ma-register-core.test]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
