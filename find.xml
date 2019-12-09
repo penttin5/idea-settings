@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/form/FormValidator.java [fimea-register-platform.ma-register-core.main]'" />
-    <option name="defaultScopeName" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/form/FormValidator.java [fimea-register-platform.ma-register-core.main]'" />
+    <option name="customScope" value="Directory '.../ma-register-core/src [fimea-register-platform.ma-register-core]'" />
+    <option name="defaultScopeName" value="Directory '.../ma-register-core/src [fimea-register-platform.ma-register-core]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/form/FormValidator.java [fimea-register-platform.ma-register-core.main]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../ma-register-core/src [fimea-register-platform.ma-register-core]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
