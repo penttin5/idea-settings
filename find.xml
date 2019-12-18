@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/form/FormValidator.java [fimea-register-platform.ma-register-core.main]'" />
-    <option name="defaultScopeName" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/form/FormValidator.java [fimea-register-platform.ma-register-core.main]'" />
-    <option name="SEARCH_SCOPE" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/form/FormValidator.java [fimea-register-platform.ma-register-core.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
