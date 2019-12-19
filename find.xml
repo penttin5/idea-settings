@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/form/TableSpec.java [fimea-register-platform.ma-register-core.main]'" />
     <option name="defaultScopeName" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/form/TableSpec.java [fimea-register-platform.ma-register-core.main]'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/form/TableSpec.java [fimea-register-platform.ma-register-core.main]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
