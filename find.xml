@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="index.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,5 +28,6 @@
     <mask>*Spec.java</mask>
     <mask>index*</mask>
     <mask>*.java</mask>
+    <mask>index.js</mask>
   </component>
 </application>
