@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/form/WithRemovedItemsList.java [fimea-register-platform.ma-register-core.main]'" />
-    <option name="defaultScopeName" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/form/WithRemovedItemsList.java [fimea-register-platform.ma-register-core.main]'" />
-    <option name="SEARCH_SCOPE" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/form/WithRemovedItemsList.java [fimea-register-platform.ma-register-core.main]'" />
+    <option name="customScope" value="File '.../integrations/basicregister-export/src/main/java/fi/fimea/maregister/integration/basicregister/BasicRegisterExportConfig.java [fimea-register-platform.integrations.basicregister-export.main]'" />
+    <option name="defaultScopeName" value="File '.../integrations/basicregister-export/src/main/java/fi/fimea/maregister/integration/basicregister/BasicRegisterExportConfig.java [fimea-register-platform.integrations.basicregister-export.main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../integrations/basicregister-export/src/main/java/fi/fimea/maregister/integration/basicregister/BasicRegisterExportConfig.java [fimea-register-platform.integrations.basicregister-export.main]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
