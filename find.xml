@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/FormMapper.java [fimea-register-platform.form-engine.main]'" />
+    <option name="defaultScopeName" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/FormMapper.java [fimea-register-platform.form-engine.main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/FormMapper.java [fimea-register-platform.form-engine.main]'" />
     <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
