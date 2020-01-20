@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../ma-register-core/src/main [fimea-register-platform.ma-register-core.main]'" />
-    <option name="defaultScopeName" value="Directory '.../ma-register-core/src/main [fimea-register-platform.ma-register-core.main]'" />
+    <option name="customScope" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/form/PrecautionaryPeriodFormGroup.java [fimea-register-platform.ma-register-core.main]'" />
+    <option name="defaultScopeName" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/form/PrecautionaryPeriodFormGroup.java [fimea-register-platform.ma-register-core.main]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../ma-register-core/src/main [fimea-register-platform.ma-register-core.main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/form/PrecautionaryPeriodFormGroup.java [fimea-register-platform.ma-register-core.main]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
