@@ -2,7 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/MedicinalProductFormData.java [fimea-register-platform.ma-register-core.main]'" />
     <option name="defaultScopeName" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/MedicinalProductFormData.java [fimea-register-platform.ma-register-core.main]'" />
+    <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/medicinalproduct/MedicinalProductFormData.java [fimea-register-platform.ma-register-core.main]'" />
     <option name="FILE_MASK" value="*.java" />
