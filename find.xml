@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/FormValidator.java [fimea-register-platform.form-engine.main]'" />
-    <option name="defaultScopeName" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/FormValidator.java [fimea-register-platform.form-engine.main]'" />
+    <option name="customScope" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/composition/form/CompositionTableSpec.java [fimea-register-platform.ma-register-core.main]'" />
+    <option name="defaultScopeName" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/composition/form/CompositionTableSpec.java [fimea-register-platform.ma-register-core.main]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/FormValidator.java [fimea-register-platform.form-engine.main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../ma-register-core/src/main/java/fi/fimea/maregister/composition/form/CompositionTableSpec.java [fimea-register-platform.ma-register-core.main]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
