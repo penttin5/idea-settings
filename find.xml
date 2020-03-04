@@ -17,7 +17,6 @@
     <mask>*Builder.java</mask>
     <mask>*Service.java</mask>
     <mask>*Provider.java</mask>
-    <mask>*.dbm</mask>
     <mask>*.http</mask>
     <mask>*.gradle</mask>
     <mask>*.plantuml</mask>
@@ -35,6 +34,7 @@
     <mask>*Controller.java</mask>
     <mask>*index*</mask>
     <mask>*.js</mask>
+    <mask>*.dbm</mask>
     <mask>*.sql</mask>
   </component>
 </application>
