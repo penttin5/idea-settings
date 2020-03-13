@@ -32,8 +32,8 @@
     <mask>*Controller.java</mask>
     <mask>*index*</mask>
     <mask>*.dbm</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.java</mask>
     <mask>*.js</mask>
   </component>
 </application>
