@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/InputComponentSpec.java [fimea-register-platform.form-engine.main]'" />
-    <option name="defaultScopeName" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/InputComponentSpec.java [fimea-register-platform.form-engine.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/InputComponentSpec.java [fimea-register-platform.form-engine.main]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -34,7 +34,7 @@
     <mask>*index*</mask>
     <mask>*.dbm</mask>
     <mask>*.sql</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
