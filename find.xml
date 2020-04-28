@@ -3,13 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Repository.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*ProviderIT.java</mask>
-    <mask>*Repository.java</mask>
     <mask>*Builder.java</mask>
     <mask>*Service.java</mask>
     <mask>*Provider.java</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.jsx</mask>
     <mask>*.java</mask>
+    <mask>*Repository.java</mask>
   </component>
 </application>
