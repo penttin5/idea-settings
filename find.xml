@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '... [fimea-register-platform]'" />
+    <option name="defaultScopeName" value="Directory '... [fimea-register-platform]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... [fimea-register-platform]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
