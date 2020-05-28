@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -22,7 +23,6 @@
     <mask>*Test.java</mask>
     <mask>*IT.java</mask>
     <mask>*Layout.java</mask>
-    <mask>*.yml</mask>
     <mask>*Controller.java</mask>
     <mask>*index*</mask>
     <mask>*.dbm</mask>
@@ -33,5 +33,6 @@
     <mask>*.ts</mask>
     <mask>build.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
