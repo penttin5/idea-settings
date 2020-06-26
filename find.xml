@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="Directory '.../ma-register-core/src/test/java/fi/fimea/maregister [fimea-register-platform.ma-register-core.test]'" />
+    <option name="defaultScopeName" value="Directory '.../ma-register-core/src/test/java/fi/fimea/maregister [fimea-register-platform.ma-register-core.test]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../ma-register-core/src/test/java/fi/fimea/maregister [fimea-register-platform.ma-register-core.test]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
