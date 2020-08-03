@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -33,5 +33,6 @@
     <mask>*Repository.java</mask>
     <mask>*Spec.java</mask>
     <mask>*.java</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
