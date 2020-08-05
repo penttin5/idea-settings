@@ -1,12 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project Production Files" />
+    <option name="defaultScopeName" value="Project Production Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project Production Files" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -19,7 +21,6 @@
     <mask>*.gradle</mask>
     <mask>*.plantuml</mask>
     <mask>index*</mask>
-    <mask>index.js</mask>
     <mask>*.xml</mask>
     <mask>*Test.java</mask>
     <mask>*IT.java</mask>
@@ -35,7 +36,8 @@
     <mask>*.sql</mask>
     <mask>*Repository.java</mask>
     <mask>*Spec.java</mask>
-    <mask>*.java</mask>
     <mask>*.tsx</mask>
+    <mask>*.java</mask>
+    <mask>index.js</mask>
   </component>
 </application>
