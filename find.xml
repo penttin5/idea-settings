@@ -27,11 +27,11 @@
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
-    <mask>*.sql</mask>
     <mask>*Repository.java</mask>
     <mask>*Spec.java</mask>
     <mask>*.tsx</mask>
     <mask>*.java</mask>
     <mask>index.js</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
