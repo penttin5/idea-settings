@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../reports/src/test/java/fi/fimea/maregister/reports/marketingauthorisation/GrantedOrWithdrawnMarketingAuthorisationIT.java [fimea-register-platform.reports.test]'" />
+    <option name="defaultScopeName" value="File '.../reports/src/test/java/fi/fimea/maregister/reports/marketingauthorisation/GrantedOrWithdrawnMarketingAuthorisationIT.java [fimea-register-platform.reports.test]'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../reports/src/test/java/fi/fimea/maregister/reports/marketingauthorisation/GrantedOrWithdrawnMarketingAuthorisationIT.java [fimea-register-platform.reports.test]'" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
