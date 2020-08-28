@@ -27,12 +27,12 @@
     <mask>build.gradle</mask>
     <mask>*.yml</mask>
     <mask>*.jsx</mask>
-    <mask>*Repository.java</mask>
     <mask>*Spec.java</mask>
     <mask>*.tsx</mask>
     <mask>index.js</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
+    <mask>*Repository.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
