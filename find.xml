@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/EditableTableSpec.java [fimea-register-platform.form-engine.main]'" />
+    <option name="defaultScopeName" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/EditableTableSpec.java [fimea-register-platform.form-engine.main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../form-engine/src/main/java/fi/fimea/formengine/spec/EditableTableSpec.java [fimea-register-platform.form-engine.main]'" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
