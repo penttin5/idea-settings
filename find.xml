@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.as</mask>
+    <option name="FILE_MASK" value="*spec.js" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*ProviderIT.java</mask>
@@ -35,5 +35,6 @@
     <mask>*.sql</mask>
     <mask>*.spec.js</mask>
     <mask>*.ts</mask>
+    <mask>*spec.js</mask>
   </component>
 </application>
