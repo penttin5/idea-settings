@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../reports/src/main/java [fimea-register-platform.reports.main]'" />
-    <option name="defaultScopeName" value="Directory '.../reports/src/main/java [fimea-register-platform.reports.main]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../reports/src/main/java [fimea-register-platform.reports.main]'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*ProviderIT.java</mask>
@@ -25,7 +25,6 @@
     <mask>*.yml</mask>
     <mask>*.jsx</mask>
     <mask>*Spec.java</mask>
-    <mask>*.tsx</mask>
     <mask>index.js</mask>
     <mask>*Repository.java</mask>
     <mask>*.java</mask>
@@ -34,5 +33,6 @@
     <mask>*.ts</mask>
     <mask>*spec.js</mask>
     <mask>*.js</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
