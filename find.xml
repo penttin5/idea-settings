@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*ProviderIT.java</mask>
@@ -30,12 +31,12 @@
     <mask>*Spec.java</mask>
     <mask>index.js</mask>
     <mask>*Repository.java</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.spec.js</mask>
     <mask>*.ts</mask>
     <mask>*spec.js</mask>
     <mask>*.js</mask>
     <mask>*.tsx</mask>
+    <mask>*.java</mask>
   </component>
 </application>
