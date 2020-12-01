@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../reports/src/main/java [fimea-register-platform.reports.main]'" />
-    <option name="defaultScopeName" value="Directory '.../reports/src/main/java [fimea-register-platform.reports.main]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../reports/src/main/java [fimea-register-platform.reports.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.mxml</mask>
     <mask>*ProviderIT.java</mask>
     <mask>*Builder.java</mask>
