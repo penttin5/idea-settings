@@ -1,17 +1,16 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '.../ma-register-core [fimea-register-platform.ma-register-core]'" />
+    <option name="defaultScopeName" value="Directory '.../ma-register-core [fimea-register-platform.ma-register-core]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="SEARCH_SCOPE" value="Directory '.../ma-register-core [fimea-register-platform.ma-register-core]'" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*ProviderIT.java</mask>
     <mask>*Builder.java</mask>
     <mask>*Service.java</mask>
     <mask>*Provider.java</mask>
     <mask>*.http</mask>
-    <mask>*.gradle</mask>
     <mask>*.plantuml</mask>
     <mask>index*</mask>
     <mask>*.xml</mask>
@@ -36,5 +35,6 @@
     <mask>build.gradle</mask>
     <mask>app*.yml</mask>
     <mask>*.yml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
