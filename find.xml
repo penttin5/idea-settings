@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../gateway/src [fimea-register-platform.gateway]'" />
-    <option name="defaultScopeName" value="Directory '.../gateway/src [fimea-register-platform.gateway]'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../gateway/src [fimea-register-platform.gateway]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.gradle" />
     <mask>*ProviderIT.java</mask>
     <mask>*Builder.java</mask>
