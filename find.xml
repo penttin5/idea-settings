@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../ma-register-core [fimea-register-platform.ma-register-core]'" />
-    <option name="defaultScopeName" value="Directory '.../ma-register-core [fimea-register-platform.ma-register-core]'" />
+    <option name="customScope" value="Project test files" />
+    <option name="defaultScopeName" value="Project test files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../ma-register-core [fimea-register-platform.ma-register-core]'" />
+    <option name="SEARCH_SCOPE" value="Project test files" />
     <option name="FILE_MASK" value="*.gradle" />
     <mask>*ProviderIT.java</mask>
     <mask>*Builder.java</mask>
