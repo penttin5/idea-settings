@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*ProviderIT.java</mask>
     <mask>*Builder.java</mask>
     <mask>*Service.java</mask>
@@ -20,7 +21,6 @@
     <mask>*Controller.java</mask>
     <mask>*index*</mask>
     <mask>*.dbm</mask>
-    <mask>*.yml</mask>
     <mask>*.jsx</mask>
     <mask>*Spec.java</mask>
     <mask>index.js</mask>
@@ -35,5 +35,6 @@
     <mask>*spec.js</mask>
     <mask>build.gradle</mask>
     <mask>app*.yml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
