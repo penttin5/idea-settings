@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*suppression.xml" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*Builder.java</mask>
     <mask>*Service.java</mask>
     <mask>*Provider.java</mask>
@@ -32,7 +32,7 @@
     <mask>build.gradle</mask>
     <mask>app*.yml</mask>
     <mask>*.yml</mask>
-    <mask>*.gradle</mask>
     <mask>*suppression.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
