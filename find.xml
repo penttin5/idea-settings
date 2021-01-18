@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../web-common/src [fimea-register-platform.web-common]'" />
-    <option name="defaultScopeName" value="Directory '.../web-common/src [fimea-register-platform.web-common]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../web-common/src [fimea-register-platform.web-common]'" />
-    <option name="FILE_MASK" value="*.gradle" />
-    <mask>*ProviderIT.java</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*suppression.xml" />
     <mask>*Builder.java</mask>
     <mask>*Service.java</mask>
     <mask>*Provider.java</mask>
@@ -34,5 +33,6 @@
     <mask>app*.yml</mask>
     <mask>*.yml</mask>
     <mask>*.gradle</mask>
+    <mask>*suppression.xml</mask>
   </component>
 </application>
