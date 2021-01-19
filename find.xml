@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../terhikki-ui/src [fimea-register-platform.terhikki-ui]'" />
-    <option name="defaultScopeName" value="Directory '.../terhikki-ui/src [fimea-register-platform.terhikki-ui]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../terhikki-ui/src [fimea-register-platform.terhikki-ui]'" />
+    <option name="customScope" value="Project 'fimea-register-platform'" />
+    <option name="defaultScopeName" value="Project 'fimea-register-platform'" />
+    <option name="SEARCH_SCOPE" value="Project 'fimea-register-platform'" />
     <option name="FILE_MASK" value="*.gradle" />
     <mask>*Builder.java</mask>
     <mask>*Service.java</mask>
