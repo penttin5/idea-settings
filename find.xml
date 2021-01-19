@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../terhikki-ui/src/test/java/fi/fimea/terhikki/filter/RootFilterTest.java [fimea-register-platform.terhikki-ui.test]'" />
-    <option name="defaultScopeName" value="File '.../terhikki-ui/src/test/java/fi/fimea/terhikki/filter/RootFilterTest.java [fimea-register-platform.terhikki-ui.test]'" />
-    <option name="SEARCH_SCOPE" value="File '.../terhikki-ui/src/test/java/fi/fimea/terhikki/filter/RootFilterTest.java [fimea-register-platform.terhikki-ui.test]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*Builder.java</mask>
     <mask>*Service.java</mask>
     <mask>*Provider.java</mask>
