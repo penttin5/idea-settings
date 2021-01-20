@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.java" />
     <mask>*Builder.java</mask>
     <mask>*Service.java</mask>
     <mask>*Provider.java</mask>
@@ -15,7 +14,6 @@
     <mask>*Test.java</mask>
     <mask>*IT.java</mask>
     <mask>*Layout.java</mask>
-    <mask>*Controller.java</mask>
     <mask>*index*</mask>
     <mask>*.dbm</mask>
     <mask>*.jsx</mask>
@@ -35,5 +33,6 @@
     <mask>*.yml</mask>
     <mask>*suppression.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*Controller.java</mask>
   </component>
 </application>
