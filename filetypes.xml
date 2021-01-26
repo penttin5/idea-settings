@@ -9,6 +9,7 @@
       <mapping pattern=".ansible-vault-valtori-prod" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="settings" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="pub2" type="PLAIN_TEXT" />
