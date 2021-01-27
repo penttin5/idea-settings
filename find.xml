@@ -21,7 +21,6 @@
     <mask>*Repository.java</mask>
     <mask>*.sql</mask>
     <mask>*.spec.js</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.tsx</mask>
     <mask>*.java</mask>
@@ -33,5 +32,6 @@
     <mask>*suppression.xml</mask>
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
