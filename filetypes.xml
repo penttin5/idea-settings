@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="reuna-sftp-test-client-key-pkcs8" type="PLAIN_TEXT" />
-      <mapping pattern=".ansible-vault-valtori-test" type="PLAIN_TEXT" />
       <mapping pattern=".ansible-vault-valtori-prod" type="PLAIN_TEXT" />
+      <mapping pattern=".ansible-vault-valtori-test" type="PLAIN_TEXT" />
+      <mapping pattern="reuna-sftp-test-client-key-pkcs8" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="settings" type="PLAIN_TEXT" />
@@ -17,7 +18,6 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="curl" type="Shell Script" />
       <mapping ext="dbm" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
