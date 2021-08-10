@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Builder.java</mask>
+    <option name="FILE_MASK" value="*.md" />
     <mask>*Service.java</mask>
     <mask>*Provider.java</mask>
     <mask>*.http</mask>
@@ -33,5 +33,6 @@
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
     <mask>*.ts</mask>
+    <mask>*.md</mask>
   </component>
 </application>
