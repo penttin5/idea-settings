@@ -14,7 +14,6 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="pub2" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
@@ -25,6 +24,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="plantuml" approved="true" type="PlantUML file" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="j2" type="YAML_EX" />
     </extensionMap>
