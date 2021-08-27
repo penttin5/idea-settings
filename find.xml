@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <mask>*Service.java</mask>
     <mask>*Provider.java</mask>
     <mask>*.http</mask>
@@ -27,7 +28,6 @@
     <mask>*.java</mask>
     <mask>*VariationRepository.java</mask>
     <mask>*spec.js</mask>
-    <mask>build.gradle</mask>
     <mask>app*.yml</mask>
     <mask>*.yml</mask>
     <mask>*suppression.xml</mask>
@@ -35,5 +35,6 @@
     <mask>*Controller.java</mask>
     <mask>*.ts</mask>
     <mask>*.md</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>
