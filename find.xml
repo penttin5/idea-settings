@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/integrations/saga-lada-client/src/main/java/fi/fimea/saga/lada/client/invoice/AnnualBillingItemExcelProcessor.java [fimea-register-platform.integrations.saga-lada-client.main]'" />
-    <option name="defaultScopeName" value="File '…/integrations/saga-lada-client/src/main/java/fi/fimea/saga/lada/client/invoice/AnnualBillingItemExcelProcessor.java [fimea-register-platform.integrations.saga-lada-client.main]'" />
-    <option name="SEARCH_SCOPE" value="File '…/integrations/saga-lada-client/src/main/java/fi/fimea/saga/lada/client/invoice/AnnualBillingItemExcelProcessor.java [fimea-register-platform.integrations.saga-lada-client.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*Service.java</mask>
     <mask>*Provider.java</mask>
     <mask>*.http</mask>
@@ -10,7 +10,6 @@
     <mask>index*</mask>
     <mask>*.xml</mask>
     <mask>*Test.java</mask>
-    <mask>*IT.java</mask>
     <mask>*Layout.java</mask>
     <mask>*index*</mask>
     <mask>*.dbm</mask>
@@ -33,5 +32,6 @@
     <mask>*.ts</mask>
     <mask>*.md</mask>
     <mask>build.gradle</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
