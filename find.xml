@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…/ma-register-core/src/test/java/fi/fimea/maregister/ArchUnitClassNameTest.java [fimea-register-platform.ma-register-core.test]'" />
+    <option name="defaultScopeName" value="File '…/ma-register-core/src/test/java/fi/fimea/maregister/ArchUnitClassNameTest.java [fimea-register-platform.ma-register-core.test]'" />
+    <option name="SEARCH_SCOPE" value="File '…/ma-register-core/src/test/java/fi/fimea/maregister/ArchUnitClassNameTest.java [fimea-register-platform.ma-register-core.test]'" />
     <mask>*Service.java</mask>
     <mask>*Provider.java</mask>
     <mask>*.http</mask>
