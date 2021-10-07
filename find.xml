@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Service.java</mask>
+    <option name="FILE_MASK" value="Application*IT.java" />
     <mask>*Provider.java</mask>
     <mask>*.http</mask>
     <mask>*.plantuml</mask>
@@ -33,5 +33,6 @@
     <mask>*.md</mask>
     <mask>build.gradle</mask>
     <mask>*IT.java</mask>
+    <mask>Application*IT.java</mask>
   </component>
 </application>
