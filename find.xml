@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '~/projects/fimea/form-engine/src [form-engine]'" />
+    <option name="defaultScopeName" value="Directory '~/projects/fimea/form-engine/src [form-engine]'" />
+    <option name="SEARCH_SCOPE" value="Directory '~/projects/fimea/form-engine/src [form-engine]'" />
     <mask>*Provider.java</mask>
     <mask>*.http</mask>
     <mask>*.plantuml</mask>
