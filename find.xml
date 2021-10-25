@@ -1,17 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Provider.java</mask>
-    <mask>*.http</mask>
-    <mask>*.plantuml</mask>
-    <mask>index*</mask>
-    <mask>*.xml</mask>
     <mask>*Test.java</mask>
     <mask>*Layout.java</mask>
     <mask>*index*</mask>
@@ -24,7 +17,6 @@
     <mask>*.spec.js</mask>
     <mask>*.js</mask>
     <mask>*.tsx</mask>
-    <mask>*.java</mask>
     <mask>*VariationRepository.java</mask>
     <mask>*spec.js</mask>
     <mask>app*.yml</mask>
@@ -37,5 +29,11 @@
     <mask>build.gradle</mask>
     <mask>*IT.java</mask>
     <mask>Application*IT.java</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
