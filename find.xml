@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*Test.java</mask>
     <mask>*Layout.java</mask>
     <mask>*index*</mask>
@@ -14,7 +15,6 @@
     <mask>*.sql</mask>
     <mask>*.spec.js</mask>
     <mask>*.js</mask>
-    <mask>*.tsx</mask>
     <mask>*VariationRepository.java</mask>
     <mask>*spec.js</mask>
     <mask>app*.yml</mask>
@@ -22,7 +22,6 @@
     <mask>*suppression.xml</mask>
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
-    <mask>*.ts</mask>
     <mask>*.md</mask>
     <mask>build.gradle</mask>
     <mask>*IT.java</mask>
@@ -33,5 +32,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
