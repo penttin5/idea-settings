@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/projects/fimea/ui-common/libs/core/src/lib/components/FormEngine/FormEngine.tsx [ui-common]'" />
-    <option name="defaultScopeName" value="File '~/projects/fimea/ui-common/libs/core/src/lib/components/FormEngine/FormEngine.tsx [ui-common]'" />
-    <option name="SEARCH_SCOPE" value="File '~/projects/fimea/ui-common/libs/core/src/lib/components/FormEngine/FormEngine.tsx [ui-common]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.tsx" />
     <mask>*Test.java</mask>
     <mask>*Layout.java</mask>
