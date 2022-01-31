@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…/libs/core/src/lib/components/Table/Table.tsx'" />
+    <option name="defaultScopeName" value="File '…/libs/core/src/lib/components/Table/Table.tsx'" />
+    <option name="SEARCH_SCOPE" value="File '…/libs/core/src/lib/components/Table/Table.tsx'" />
     <option name="FILE_MASK" value="*.tsx,*.ts" />
     <mask>*Layout.java</mask>
     <mask>*index*</mask>
