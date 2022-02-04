@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Hevonen" />
-    <option name="defaultScopeName" value="Hevonen" />
-    <option name="SEARCH_SCOPE" value="Hevonen" />
-    <option name="FILE_MASK" value="*.tsx,*.ts" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*Layout.java</mask>
     <mask>*index*</mask>
     <mask>*.dbm</mask>
