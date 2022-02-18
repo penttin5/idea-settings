@@ -1,6 +1,6 @@
 <application>
   <component name="GithubAccounts">
-    <account id="860da8fe-e945-4d6c-809e-492ea4d9dbd4" name="penttin5@gmail.com">
+    <account name="penttin5" id="860da8fe-e945-4d6c-809e-492ea4d9dbd4">
       <server useHttp="false" host="github.com" />
     </account>
   </component>
