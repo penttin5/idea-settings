@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://fimea-reg-ci1.solita.fi/sonar/" />
+          <token>df9adf98dfcedf9edf9bdf9cdf9ddfcedf99df98df9ddfcbdf9ddf9edf93df9fdfccdf93df9ddfcedf98df98df93df92dfcfdf9cdf9edf9fdfcbdfc9df93df9cdf9bdf93df9bdf9fdf92df9ddfcbdfcf</token>
+          <option name="name" value="Fimea" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

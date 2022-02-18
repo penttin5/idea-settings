@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx,*.ts" />
+    <mask>*Layout.java</mask>
+    <mask>*index*</mask>
+    <mask>*.dbm</mask>
+    <mask>*.jsx</mask>
+    <mask>*Spec.java</mask>
+    <mask>index.js</mask>
+    <mask>*Repository.java</mask>
+    <mask>*.sql</mask>
+    <mask>*.spec.js</mask>
+    <mask>*.js</mask>
+    <mask>*VariationRepository.java</mask>
+    <mask>*spec.js</mask>
+    <mask>app*.yml</mask>
+    <mask>*.yml</mask>
+    <mask>*suppression.xml</mask>
+    <mask>*.gradle</mask>
+    <mask>*Controller.java</mask>
+    <mask>*.md</mask>
+    <mask>build.gradle</mask>
+    <mask>*IT.java</mask>
+    <mask>Application*IT.java</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.ts</mask>
+    <mask>*.tsx</mask>
+    <mask>*.tsx,*.ts</mask>
+  </component>
+</application>
