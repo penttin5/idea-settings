@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*index*</mask>
     <mask>*.dbm</mask>
     <mask>*.jsx</mask>
     <mask>*Spec.java</mask>
@@ -30,8 +29,9 @@
     <mask>*.properties</mask>
     <mask>*.ts</mask>
     <mask>*.tsx,*.ts</mask>
-    <mask>*.java</mask>
     <mask>*.tsx</mask>
     <mask>*.tsx, *.ts</mask>
+    <mask>*.java</mask>
+    <mask>*.tsx,*.ts,*.js,*.jsx</mask>
   </component>
 </application>
