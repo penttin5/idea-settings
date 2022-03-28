@@ -5,8 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.spec.*" />
-    <mask>*.jsx</mask>
+    <option name="FILE_MASK" value="*.ts,*.tsx" />
     <mask>*Spec.java</mask>
     <mask>index.js</mask>
     <mask>*Repository.java</mask>
@@ -36,5 +35,6 @@
     <mask>*.tsx,*.ts,*.js,*.jsx</mask>
     <mask>*.tsx,*.ts</mask>
     <mask>*.spec.*</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
