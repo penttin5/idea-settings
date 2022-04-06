@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="File '~/projects/fimea/form-engine/src/main/java/fi/fimea/formengine/spec/ValidatorSpecs.java [form-engine.main]'" />
+    <option name="defaultScopeName" value="File '~/projects/fimea/form-engine/src/main/java/fi/fimea/formengine/spec/ValidatorSpecs.java [form-engine.main]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="File '~/projects/fimea/form-engine/src/main/java/fi/fimea/formengine/spec/ValidatorSpecs.java [form-engine.main]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>index.js</mask>
     <mask>*Repository.java</mask>
