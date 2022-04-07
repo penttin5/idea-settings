@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/projects/fimea/form-engine/src/main/java/fi/fimea/formengine/spec/ValidatorSpecs.java [form-engine.main]'" />
-    <option name="defaultScopeName" value="File '~/projects/fimea/form-engine/src/main/java/fi/fimea/formengine/spec/ValidatorSpecs.java [form-engine.main]'" />
-    <option name="SEARCH_SCOPE" value="File '~/projects/fimea/form-engine/src/main/java/fi/fimea/formengine/spec/ValidatorSpecs.java [form-engine.main]'" />
-    <option name="FILE_MASK" value="*.ts,*.tsx,*.js, *.jsx" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts,*.tsx" />
     <mask>*Repository.java</mask>
     <mask>*.sql</mask>
     <mask>*.spec.js</mask>
@@ -30,9 +30,9 @@
     <mask>*.tsx,*.ts,*.js,*.jsx</mask>
     <mask>*.tsx,*.ts</mask>
     <mask>*.spec.*</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.ts,*.tsx,*.js</mask>
     <mask>*.java</mask>
     <mask>*.ts,*.tsx,*.js, *.jsx</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
