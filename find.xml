@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Var*Repository.java" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.sql</mask>
     <mask>*.spec.js</mask>
     <mask>*.js</mask>
@@ -30,9 +30,9 @@
     <mask>*.tsx,*.ts</mask>
     <mask>*.spec.*</mask>
     <mask>*.ts,*.tsx,*.js</mask>
-    <mask>*.java</mask>
     <mask>*.ts,*.tsx,*.js, *.jsx</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*Var*Repository.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
