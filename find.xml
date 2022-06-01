@@ -5,7 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.sql</mask>
+    <option name="FILE_MASK" value=".gitlab-ci.yml" />
     <mask>*.spec.js</mask>
     <mask>*.js</mask>
     <mask>*VariationRepository.java</mask>
@@ -35,5 +35,6 @@
     <mask>*Var*Repository.java</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.java</mask>
+    <mask>.gitlab-ci.yml</mask>
   </component>
 </application>
