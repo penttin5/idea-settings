@@ -6,6 +6,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".iyarc" type="PLAIN_TEXT" />
       <mapping ext="lock-copy" type="PLAIN_TEXT" />
       <mapping ext="json-toimii" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
