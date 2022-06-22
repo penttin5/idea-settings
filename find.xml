@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.test.tsx" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*VariationRepository.java</mask>
     <mask>*spec.js</mask>
     <mask>app*.yml</mask>
@@ -29,10 +29,10 @@
     <mask>*.ts,*.tsx,*.js, *.jsx</mask>
     <mask>*Var*Repository.java</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.java</mask>
     <mask>.gitlab-ci.yml</mask>
     <mask>*</mask>
     <mask>*.tsx</mask>
     <mask>*.test.tsx</mask>
+    <mask>*.java</mask>
   </component>
 </application>
