@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*VariationRepository.java</mask>
     <mask>*spec.js</mask>
     <mask>app*.yml</mask>
@@ -20,7 +20,6 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.ts</mask>
     <mask>*.tsx, *.ts</mask>
     <mask>*.tsx,*.ts,*.js,*.jsx</mask>
     <mask>*.tsx,*.ts</mask>
@@ -34,5 +33,6 @@
     <mask>*.tsx</mask>
     <mask>*.test.tsx</mask>
     <mask>*.java</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
