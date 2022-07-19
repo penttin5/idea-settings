@@ -41,6 +41,33 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="org.jetbrains.kotlin">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="org.sonarlint.idea">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="ua.in.dej.myEmmet">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
