@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*VariationRepository.java</mask>
+    <option name="FILE_MASK" value="index.*" />
     <mask>*spec.js</mask>
     <mask>app*.yml</mask>
     <mask>*.yml</mask>
@@ -35,5 +35,6 @@
     <mask>*.test.tsx</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>index.*</mask>
   </component>
 </application>
