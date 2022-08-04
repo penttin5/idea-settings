@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/liike/server/src/main [liike-server]'" />
-    <option name="defaultScopeName" value="Directory '…/liike/server/src/main [liike-server]'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '…/liike/server/src/main [liike-server]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*VariationRepository.java</mask>
     <mask>*spec.js</mask>
     <mask>app*.yml</mask>
