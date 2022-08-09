@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*spec.js</mask>
     <mask>app*.yml</mask>
     <mask>*.yml</mask>
@@ -28,10 +29,10 @@
     <mask>*.ts,*.tsx</mask>
     <mask>.gitlab-ci.yml</mask>
     <mask>*</mask>
-    <mask>*.tsx</mask>
     <mask>*.test.tsx</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>index.*</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
