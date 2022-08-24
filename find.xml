@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="selection" />
-    <option name="defaultScopeName" value="selection" />
-    <option name="SEARCH_SCOPE" value="selection" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*spec.js</mask>
     <mask>app*.yml</mask>
     <mask>*.yml</mask>
@@ -30,8 +31,8 @@
     <mask>*</mask>
     <mask>*.test.tsx</mask>
     <mask>*.java</mask>
-    <mask>*.ts</mask>
     <mask>index.*</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
