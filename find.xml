@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>app*.yml</mask>
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.yml</mask>
     <mask>*suppression.xml</mask>
     <mask>*.gradle</mask>
@@ -13,7 +13,6 @@
     <mask>*IT.java</mask>
     <mask>Application*IT.java</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -30,8 +29,10 @@
     <mask>*.test.tsx</mask>
     <mask>*.java</mask>
     <mask>index.*</mask>
-    <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.json</mask>
+    <mask>*.</mask>
+    <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
