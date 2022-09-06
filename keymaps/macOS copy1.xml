@@ -19,6 +19,10 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="HippieBackwardCompletion" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta alt back_quote" />
+    <keyboard-shortcut first-keystroke="meta less" />
+  </action>
   <action id="QuickActionPopup" />
   <action id="SendEOF" />
   <action id="openAssertEqualsDiff" />
