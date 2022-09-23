@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…/loki/client/src/test/java/fi/livi/loki/client/common/cellrender/raidemuutospyynnot/HuomiotCellRendererTest.java [loki-client]'" />
+    <option name="defaultScopeName" value="File '…/loki/client/src/test/java/fi/livi/loki/client/common/cellrender/raidemuutospyynnot/HuomiotCellRendererTest.java [loki-client]'" />
+    <option name="SEARCH_SCOPE" value="File '…/loki/client/src/test/java/fi/livi/loki/client/common/cellrender/raidemuutospyynnot/HuomiotCellRendererTest.java [loki-client]'" />
     <mask>*suppression.xml</mask>
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
