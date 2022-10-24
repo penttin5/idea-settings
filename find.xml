@@ -1,11 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/liike/server/src/main/java/fi/finrail/liike/server/impl/raidetieto/service/paivitys/RaidemuutosServiceImpl.java [liike-server]'" />
-    <option name="defaultScopeName" value="File '…/liike/server/src/main/java/fi/finrail/liike/server/impl/raidetieto/service/paivitys/RaidemuutosServiceImpl.java [liike-server]'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/liike/server/src/main/java/fi/finrail/liike/server/impl/raidetieto/service/paivitys/RaidemuutosServiceImpl.java [liike-server]'" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
     <mask>*.md</mask>
