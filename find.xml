@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Module 'domain'" />
+    <option name="defaultScopeName" value="Module 'domain'" />
+    <option name="SEARCH_SCOPE" value="Module 'domain'" />
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
     <mask>*.md</mask>
