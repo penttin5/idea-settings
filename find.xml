@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/loki/services/src/main/java/fi/finrail/loki/server/api/raide/dto/muutos/Apina.java [loki-services]'" />
-    <option name="defaultScopeName" value="File '…/loki/services/src/main/java/fi/finrail/loki/server/api/raide/dto/muutos/Apina.java [loki-services]'" />
-    <option name="SEARCH_SCOPE" value="File '…/loki/services/src/main/java/fi/finrail/loki/server/api/raide/dto/muutos/Apina.java [loki-services]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.gradle</mask>
     <mask>*Controller.java</mask>
     <mask>*.md</mask>
